@@ -1,0 +1,7 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+
+Vor jeder Aktion möchte ich, dass du mit dem llm-mem-Tool deine Erinnerungen durchsuchst, um zu schauen, ob du dort hilfreichen Kontext findest.

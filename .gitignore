@@ -1,0 +1,8 @@
+# Node modules
+node_modules
+
+# Indexed memories to avoid conflicts
+docs/index/flexsearch-memorystore.sqlite
+
+# Github MCP environment variables to not expose access tokens
+.cursor/.env.github-mcp

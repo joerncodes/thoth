@@ -1,0 +1,16 @@
+{
+  "name": "hypercortex",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": "git@github.com:kernpunkt/hypercortex.git",
+  "license": "MIT",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "llm-mem": "github:kernpunkt/llm-mem#main",
+    "@dotenvx/dotenvx": "^1.51.0"
+  }
+}

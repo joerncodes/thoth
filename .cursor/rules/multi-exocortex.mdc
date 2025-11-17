@@ -1,0 +1,13 @@
+---
+alwaysApply: true
+---
+
+In den meisten Projekten werden andere Exocortex-Repositories mit eingebunden. Das passiert, indem in der `mcp.json` ein weiterer llm-mem-Server angelegt wird, der mit einem Benutzerkürzel gepräfixt wird. Beispiel: `jan-memories`, `joern-memories`, etc.
+
+Dabei liegen die Pfade in der Config auf einem Pfad auf der lokalen Festplatte, außerhalb des gegenwärtigen Repos.
+
+**Wichtig:** Die Server stellen jetzt andere Namen für den MCP-Server und die Tool-Namen zur Verfügung. Beide sind jeweils mit dem Text von `NAME_PREFIX` aus der `mcp.json` geprefixt. Der `NAME_PREFIX` wird in den Environment-Variablen des Servers in der `mcp.json` definiert.
+
+Wenn Anweisungen wie "Schreib eine neue Erinnerung für Jan" oder ähnliche Anfragen mit einem Benutzerkürzel kommen, solltest du die entsprechenden Tools mit dem geprefixten Server- und Tool-Namen verwenden. Beispiel: Für "Jan" verwende `jan-memories` (wenn `NAME_PREFIX: "jan"`), für "Joern" verwende `joern-memories` (wenn `NAME_PREFIX: "joern"`), etc.
+
+**Wichtig:** Vor jeder Schreiboperation, prüfe genau, ob du den richtigen Server verwendest. Die Verwendung eines fehlerhaft gewählten Servers führt dazu, dass businesskritische Informationen verloren gehen.
