@@ -1,11 +1,11 @@
 ---
 id: 1b0fcfb9-2564-4bdb-85ef-2d38250bf3b1
-title: Ezra
+title: Ezra Walk-Meyer
 tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:34:10.621Z'
-updated_at: '2025-11-18T13:35:44.226Z'
+updated_at: '2025-11-18T13:40:53.694Z'
 last_reviewed: '2025-11-17T11:34:10.621Z'
 links:
   - f79631b0-3d79-46c9-93b7-19b3e68ec76f
@@ -17,4 +17,6 @@ links:
 sources: []
 ---
 
-# Ezra
+# Ezra Walk-Meyer
+
+Mein erstgeborener Sohn.

@@ -1,11 +1,11 @@
 ---
 id: 2bd89fe9-509a-4062-a5bf-811b5b7afb8a
-title: Emmett
+title: Emmett Walk-Meyer
 tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:14:37.504Z'
-updated_at: '2025-11-18T13:35:42.664Z'
+updated_at: '2025-11-18T13:40:54.659Z'
 last_reviewed: '2025-11-17T11:14:37.504Z'
 links:
   - 0a4d6b85-f1d4-496b-8a02-d8577f3c6d1a
@@ -20,4 +20,6 @@ abstract: >-
   Sauerkraut, hatte einen Blowout und weinte abends.
 ---
 
-# Emmett
+# Emmett Walk-Meyer
+
+Mein zweitgeborener Sohn.

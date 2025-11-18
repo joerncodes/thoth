@@ -11,10 +11,13 @@
             "id": "ae9b6e30b5e2192e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "Atlas/Diary.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Diary"
             }
           }
         ]
@@ -179,6 +182,16 @@
   "active": "ae9b6e30b5e2192e",
   "lastOpenFiles": [
     "docs/index/flexsearch-memorystore.sqlite-journal",
+    "docs/md/(PERSON)(gerti-meyer)(b3b4f504-b3fb-488c-a4bd-1c0222a638c7).md",
+    "docs/md/(PERSON)(ingo-meyer)(e7d4edd8-b731-414d-8fa2-e9b37923d5d6).md",
+    "docs/md/(PERSON)(bryan-nickola)(25633d06-b917-4400-9782-a319396888b0).md",
+    "docs/md/(PERSON)(kat-nickola)(a5bd805b-74af-4dce-b370-4746d4e53847).md",
+    "docs/md/(PERSON)(dirk-meyer)(8e6a63a0-184b-45eb-8b38-f810907ad622).md",
+    "docs/md/(PERSON)(joe-pajoe-walk)(78e63364-9cc6-48dc-b75d-58ba66e85588).md",
+    "docs/md/(PERSON)(nancy-nan-walk)(cc3f5120-34a7-44c5-8bd1-8674eb2682c5).md",
+    "docs/md/(PERSON)(emmett-walk-meyer)(2bd89fe9-509a-4062-a5bf-811b5b7afb8a).md",
+    "docs/md/(PERSON)(ezra-walk-meyer)(1b0fcfb9-2564-4bdb-85ef-2d38250bf3b1).md",
+    "docs/md/(PERSON)(bethany-walk)(883ae491-f3e1-496b-87ee-f156a794d164).md",
     "docs/md/(PERSON)(karolin-hofer)(6f5b7602-6740-400a-94ae-a0e81ef44389).md",
     "docs/md/(PERSON)(joe)(78e63364-9cc6-48dc-b75d-58ba66e85588).md",
     "docs/md/(PERSON)(nan)(cc3f5120-34a7-44c5-8bd1-8674eb2682c5).md",
@@ -203,18 +216,8 @@
     "docs/md/(PERSON)(arasch)(145eb116-22ec-4f1f-8a7a-a1eacc3c2a29).md",
     "Images/2025-08-08 1.jpeg",
     "Images/513d34bdfb1e100b3dffbcd6ec933354.jpeg",
-    "docs/md/(DIARY)(tagebucheintrag-10825)(c1f517b0-6f5d-4687-ac95-28524cb91024).md",
     "Images/2025-08-10 2.jpeg",
     "Images/2025-08-10 1.jpeg",
-    "docs/md/(DIARY)(schlechte-nachrichten)(ea7ba881-0bf0-4764-ae8e-8e89a87ae90f).md",
-    "docs/md/(PERSON)(laura)(2d83faea-8d5a-4f87-9946-31fd92649d7f).md",
-    "docs/md/(PERSON)(oll)(87582c06-f448-4460-8fd1-f5fd364ba21b).md",
-    "docs/md/(PERSON)(nan)(65063812-1134-4d13-a260-1dd953dc2a1a).md",
-    "docs/md/(PERSON)(liv)(b9e315fa-d980-4d3b-99d6-8aa130b01685).md",
-    "docs/md/(PERSON)(zoe)(8438ce4c-39d6-4a4d-a42c-6385c7650ad7).md",
-    "docs/md/(PERSON)(avi)(4a42a1dd-8f67-45f6-a030-060678934286).md",
-    "docs/md/(PERSON)(bryan)(25633d06-b917-4400-9782-a319396888b0).md",
-    "docs/md/(PERSON)(kat)(a5bd805b-74af-4dce-b370-4746d4e53847).md",
     "Atlas"
   ]
 }

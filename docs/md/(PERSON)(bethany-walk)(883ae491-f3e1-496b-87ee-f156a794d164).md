@@ -1,11 +1,11 @@
 ---
 id: 883ae491-f3e1-496b-87ee-f156a794d164
-title: Bethany
+title: Bethany Walk
 tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:14:36.712Z'
-updated_at: '2025-11-18T13:35:43.558Z'
+updated_at: '2025-11-18T13:40:52.453Z'
 last_reviewed: '2025-11-17T11:14:36.712Z'
 links:
   - 0a4d6b85-f1d4-496b-8a02-d8577f3c6d1a
@@ -21,4 +21,6 @@ abstract: >-
   der Hitze.
 ---
 
-# Bethany
+# Bethany Walk
+
+Meine Frau.
