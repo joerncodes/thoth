@@ -17,6 +17,7 @@ sources: []
 Die folgenden Tags verwende ich häufig in meinen Memories:
 
 - `physiotherapy`
-- `psychotherapy`
+- `therapy`
 - `doctors`
 - `office`
+- `birthdays`

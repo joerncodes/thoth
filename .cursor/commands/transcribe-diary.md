@@ -7,7 +7,13 @@ Workflow zum Transkribieren von Tagebucheinträgen aus Bildern.
 ### 1. Bilder mit Mistral-OCR transkribieren
 - Verwende das `mistral-ocr` MCP Tool (`mcp_mistral-ocr_extract_file_content`) für alle bereitgestellten Bilder
 - Führe die OCR-Extraktion für alle Bilder parallel durch
+- **Bildtypen analysieren:**
+  - **Handgemalte Bilder erkennen:** Analysiere die OCR-Ergebnisse und Bildinhalte auf handgemalte Zeichnungen, Skizzen, Illustrationen oder handgeschriebene Notizen mit visuellen Elementen
+  - **Nicht transkribierte Bilder erkennen:** Prüfe, ob ein Bild keine oder nur minimale Text-Extraktion ergeben hat (z.B. nur Fotos ohne Text, Bilder mit zu schlechter Qualität für OCR, oder Bilder die hauptsächlich visuelle Inhalte ohne Text enthalten)
 - Kombiniere die transkribierten Texte zu einem vollständigen Eintrag
+- **Merke dir für jeden Eintrag:**
+  - Ob handgemalte Bilder vorhanden sind → Tag `hasdrawing` hinzufügen
+  - Ob nicht transkribierte Bilder vorhanden sind → Tag `hasphoto` hinzufügen
 
 ### 2. Tagebuch-Memory anlegen
 - **Mood extrahieren:** In der Überschrift des Eintrags steht immer eine Zahl, die die Stimmung (Mood) des Tages repräsentiert. Extrahiere diese Zahl aus der Überschrift.
@@ -27,6 +33,9 @@ Workflow zum Transkribieren von Tagebucheinträgen aus Bildern.
   - Beispiel: `![[2025-08-14 1.png]]` und `![[2025-08-14 2.png]]`
   - **Wichtig:** Verwende nur den Dateinamen ohne `Images/` Pfad, da Obsidian die Dateien im Vault findet
 - **Tags:** Mindestens `diary` und das Datum (z.B. `2025-08-14`)
+  - **Bild-bezogene Tags hinzufügen:**
+    - Wenn handgemalte Bilder erkannt wurden: Füge `hasdrawing` hinzu
+    - Wenn nicht transkribierte Bilder vorhanden sind: Füge `hasphoto` hinzu
 - **Abstract:** Kurze Zusammenfassung des Eintrags (1-2 Sätze)
 - **Frontmatter (template):** Füge IMMER die folgenden Felder hinzu:
   - `mood`: Die extrahierte Mood-Zahl
@@ -70,9 +79,12 @@ Workflow zum Transkribieren von Tagebucheinträgen aus Bildern.
 - **Häufig verwendete Tags abrufen:** Lese zuerst die Memory "Tags, die ich häufig verwende" mit `mcp_llm-mem_read_mem` oder `mcp_llm-mem_search_mem`, um die bevorzugten Tags zu erhalten
 - Analysiere den Tagebucheintrag auf wichtige Themen und Kontexte
 - **Tags bevorzugen:** Wenn Inhalte im Tagebucheintrag zu den häufig verwendeten Tags passen (z.B. `physiotherapies`, `psychotherapies`, `doctors`, `offices`), verwende diese bevorzugt
-- Extrahiere die **fünf wichtigsten zusätzlichen Tags** (zusätzlich zu `diary` und Datum)
-- Aktualisiere die Tagebuch-Erinnerung mit `mcp_llm-mem_edit_mem` und füge die fünf Tags hinzu
-- Beispiele für sinnvolle Tags: `families`, `jobs`, `stresses`, `health-issues`, `therapies`, `physiotherapies`, `travels`, etc.
+- **Bild-bezogene Tags bereits hinzugefügt:** Die Tags `hasdrawing` und `hasphoto` wurden bereits in Schritt 2 hinzugefügt, falls zutreffend
+- Extrahiere die **wichtigsten zusätzlichen Tags** (zusätzlich zu `diary`, Datum, `hasdrawing` und `hasphoto`)
+  - **Keine Begrenzung:** Füge so viele relevante Tags hinzu, wie sinnvoll sind (mindestens 3-5, aber gerne mehr wenn passend)
+  - Berücksichtige dabei auch visuelle Inhalte aus den Bildern (z.B. `food` wenn Essen fotografiert wurde, `nature` für Naturbilder, `people` für Personenfotos, etc.)
+- Aktualisiere die Tagebuch-Erinnerung mit `mcp_llm-mem_edit_mem` und füge alle relevanten Tags hinzu
+- Beispiele für sinnvolle Tags: `families`, `jobs`, `stresses`, `health-issues`, `therapies`, `physiotherapies`, `travels`, `food`, `nature`, `people`, `activities`, `events`, etc.
 
 ## Formatierung (optional)
 
@@ -95,5 +107,5 @@ Falls Formatierung aus dem Original übernommen werden soll:
    ![[2025-08-14 2.png]]
 7. Place identifizieren: "Spinozastraße 15" im Text → Suche nach PLACE-Erinnerung → eindeutig gefunden → verlinken und place: <place-id> setzen
 8. Personen: Bethany, Emmett, Emily, Markus → PERSON-Erinnerungen erstellen/verknüpfen
-9. Tags: diary, 2025-08-14, families, stresses, jobs, physiotherapies, therapies
+9. Tags: diary, 2025-08-14, hasdrawing (wenn handgemalte Bilder), hasphoto (wenn nicht transkribierte Bilder), families, stresses, jobs, physiotherapies, therapies, [weitere relevante Tags basierend auf Inhalt]
 ```

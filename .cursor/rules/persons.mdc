@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+
+Notizen vom Typ "PERSON" sollen nur Verlinkungen, keine "Erwähnungen" oder Inhalt aus DIARY-Notizen haben. Wenn es Inhalt gibt, den ich eingetragen habe, soll der aber bestehen bleiben.
