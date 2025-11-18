@@ -3,7 +3,7 @@ id: 4f64ce16-706c-49cd-ba93-bcc381ad5ed1
 title: Emmett ist 1!
 tags:
   - diary
-  - '2025-08-15'
+  - 2025-08-15
   - hasdrawing
   - birthdays
   - families
@@ -15,9 +15,9 @@ tags:
   - health-issues
   - activities
 category: DIARY
-created_at: '2025-11-18T13:30:17.983Z'
-updated_at: '2025-11-18T13:30:47.199Z'
-last_reviewed: '2025-11-18T13:30:17.983Z'
+created_at: 2025-11-18T13:30:17.983Z
+updated_at: 2025-11-18T13:30:47.199Z
+last_reviewed: 2025-11-18T13:30:17.983Z
 links:
   - 2bd89fe9-509a-4062-a5bf-811b5b7afb8a
   - 883ae491-f3e1-496b-87ee-f156a794d164
@@ -27,13 +27,10 @@ links:
   - cc3f5120-34a7-44c5-8bd1-8674eb2682c5
   - 78e63364-9cc6-48dc-b75d-58ba66e85588
 sources: []
-abstract: >-
-  Emmett wird ein Jahr alt. Stressiger Tag mit Therapie, Arbeit, chinesischem
-  Essen und spätem Kuchenbacken für die Geburtstagsfeier. Bethany sehr
-  gestresst, fast Panikattacke.
-mood: null
-date: '2025-08-15'
-place: null
+abstract: Emmett wird ein Jahr alt. Stressiger Tag mit Therapie, Arbeit, chinesischem Essen und spätem Kuchenbacken für die Geburtstagsfeier. Bethany sehr gestresst, fast Panikattacke.
+mood: 4
+date: 2025-08-15
+place:
 ---
 
 FR. 15.8.25 -EMMETT IST 1!
