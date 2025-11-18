@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "4eaf19674845cc4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "82c92fcd4ff54ef7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae9b6e30b5e2192e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "958ea1843e40e4f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1e97965e0dc8937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a11616a70e4f7219",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "17176d57ccd4cfc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "49ed162a5bf17a31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e1e6ba4bfe3751e",
+    "type": "split",
+    "children": [
+      {
+        "id": "062facc944f05a89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8575c1ef94bd31e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f718070bc4e7d56d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0670e063f28ae8cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b058c857f4d08e18",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ecff5e7f7255bea5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ae9b6e30b5e2192e",
+  "lastOpenFiles": [
+    "docs/md/(PERSON)(liz)(180f416c-ce78-4904-acb5-f04a430e963e).md",
+    "docs/md/(DIARY)(tagebucheintrag-7825)(bda6d098-942a-49be-818c-0d5c52665f58).md",
+    "docs/md/(PLACE)(garten)(58e7611c-360b-4fa7-81e0-cac7f2515aa4).md",
+    "docs/index/flexsearch-memorystore.sqlite-journal",
+    "Atlas/Diary.base",
+    "docs/md/(DIARY)(sa-9825-schwimmbad-date)(96f16d6f-c2ec-4c9d-b5c6-a56e32a1d587).md",
+    "docs/md/(PERSON)(lukas)(5dea7e8f-50a1-44fa-91b2-84071bd16b2c).md",
+    "docs/md/(PERSON)(carsten)(7c22aa48-db60-49f4-a8d8-6b9c9d6aaeb1).md",
+    "Images/2025-08-07 1.jpeg",
+    "Images/dbca28a10d3597c47c3dbb620e13cc47.jpeg",
+    "docs/md/(DIARY)(tagebucheintrag-2025-08-08)(4130c073-8c28-4263-a406-6bab5c5385a4).md",
+    "Images/2025-08-08.md",
+    "docs/md/(PERSON)(arasch)(145eb116-22ec-4f1f-8a7a-a1eacc3c2a29).md",
+    "Images/2025-08-08 1.jpeg",
+    "Images/513d34bdfb1e100b3dffbcd6ec933354.jpeg",
+    "docs/md/(DIARY)(tagebucheintrag-10825)(c1f517b0-6f5d-4687-ac95-28524cb91024).md",
+    "Images/2025-08-10 2.jpeg",
+    "Images/2025-08-10 1.jpeg",
+    "Images/1aca92108b26e9e7d697c0ef5e044c98.jpeg",
+    "Images/235cb10f68aff61732cf6c55b02f686e.jpeg",
+    "docs/md/(DIARY)(schlechte-nachrichten)(ea7ba881-0bf0-4764-ae8e-8e89a87ae90f).md",
+    "docs/md/(PERSON)(laura)(2d83faea-8d5a-4f87-9946-31fd92649d7f).md",
+    "docs/md/(PERSON)(oll)(87582c06-f448-4460-8fd1-f5fd364ba21b).md",
+    "docs/md/(PERSON)(nan)(65063812-1134-4d13-a260-1dd953dc2a1a).md",
+    "Images/2025-07-31.jpeg",
+    "Images/536bf5aa33b7126d8d2c856c9180267b.jpeg",
+    "docs/md/(PERSON)(liv)(b9e315fa-d980-4d3b-99d6-8aa130b01685).md",
+    "docs/md/(PERSON)(zoe)(8438ce4c-39d6-4a4d-a42c-6385c7650ad7).md",
+    "docs/md/(PERSON)(avi)(4a42a1dd-8f67-45f6-a030-060678934286).md",
+    "docs/md/(PERSON)(bryan)(25633d06-b917-4400-9782-a319396888b0).md",
+    "docs/md/(PERSON)(kat)(a5bd805b-74af-4dce-b370-4746d4e53847).md",
+    "docs/md/(PLACE)(spinozastrae-15-kaiserslautern-familie-nickola)(23966a02-90a3-4ce9-b03b-320cd50e1066).md",
+    "docs/md/(ADR)(spinozastrae-15-kaiserslautern-familie-nickola)(23966a02-90a3-4ce9-b03b-320cd50e1066).md",
+    "docs/md/(PERSON)(gbbels)(6b8784f8-7413-4afa-ada3-ecd5f5a21798).md",
+    "docs/md/(PERSON)(guido)(b7a55941-f345-4753-93db-7b14b49a1282).md",
+    "docs/md/(PERSON)(luan)(1a58acff-12fd-461f-a1a9-102a909a5f4b).md",
+    "docs/md/(PERSON)(ezra)(1b0fcfb9-2564-4bdb-85ef-2d38250bf3b1).md",
+    "Atlas"
+  ]
+}

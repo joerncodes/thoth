@@ -1,4 +1,12 @@
 frontmatter:
+    DIARY:
+        mood: 5
+        date: 2025-11-17
+        place: null
+    PLACE:
+        latitude: null
+        longitude: null
+        address: null
     ENDEAVOUR:
         company: null
         status: "unknown"

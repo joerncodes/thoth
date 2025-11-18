@@ -7,14 +7,13 @@ settings:
 importers:
 
   .:
-    dependencies:
-      llm-mem:
-        specifier: github:kernpunkt/llm-mem#main
-        version: https://codeload.github.com/kernpunkt/llm-mem/tar.gz/f6b175965878ba1d42bee2895278e7ef83559e18
     devDependencies:
       '@dotenvx/dotenvx':
         specifier: ^1.51.0
         version: 1.51.1
+      llm-mem:
+        specifier: github:kernpunkt/llm-mem#main
+        version: https://codeload.github.com/kernpunkt/llm-mem/tar.gz/f6b175965878ba1d42bee2895278e7ef83559e18
 
 packages:
 
