@@ -4,23 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "82c92fcd4ff54ef7",
+        "id": "0b7a3c3ce4d8e478",
         "type": "tabs",
         "children": [
           {
-            "id": "ae9b6e30b5e2192e",
+            "id": "4dde818f222439ac",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "925dde403764d353",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Atlas/Diary.base",
-                "viewName": "Table"
+                "currentVersion": "1.10.4"
               },
-              "icon": "lucide-table",
-              "title": "Diary"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,23 +189,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "ae9b6e30b5e2192e",
+  "active": "925dde403764d353",
   "lastOpenFiles": [
+    "docs/md/(DIARY)(gehalt-verhandelt)(9b3e2ea3-bbd3-4c99-b832-67f89f125e4a).md",
+    "docs/index/flexsearch-memorystore.sqlite-journal",
+    "docs/md/(PERSON)(olli-blum)(87582c06-f448-4460-8fd1-f5fd364ba21b).md",
+    "Atlas/Diary.base",
+    "docs/md/(PERSON)(matthias)(ea6b5148-af25-47b5-8b92-418b1f384e47).md",
+    "docs/md/(PERSON)(tego)(ffb8bae9-dbd7-4963-9384-ba0dce8fef2f).md",
+    "Images/2025-08-04 Solution Architect.jpeg",
+    "Images/a5c9368d0d08ba05bf072f27e5a32812.jpeg",
+    "Images/2025-08-04 2.jpeg",
+    "Images/05a48c28dbd15525dae0fa9847b7cfec.jpeg",
+    "Images/2025-08-04 1.jpeg",
+    "Images/2025-08-04.jpeg",
+    "Images/86ad6f6ae7d177ce223b20b8d1de6c10.jpeg",
+    "docs/md/(DIARY)(letzter-tag-als-dev)(b00d5a5d-60f6-4168-b87d-d8c03aadf1cc).md",
+    "docs/md/(PERSON)(philipp)(7e88e5a0-4d8f-4949-a082-9db40f95de2d).md",
+    "docs/md/(PERSON)(can)(42bed503-ac05-49ef-ab01-db43b0d1f1a7).md",
+    "docs/md/(PERSON)(leon)(070440b2-e2e2-49eb-9931-ddd71bf4014a).md",
+    "docs/md/(PERSON)(kristina)(b0c4f78d-e7d6-4f07-9718-01e5a52fd48f).md",
     "Images/2025-08-05 2.png",
     "Images/2025-08-05 1.png",
     "docs/md/(DIARY)(tagebucheintrag-060825)(46ffe812-18d3-4f2c-baee-44d483079eee).md",
     "docs/md/(PERSON)(markus)(02080965-ed83-475b-887e-e9df0c4531b3).md",
-    "Atlas/Diary.base",
-    "docs/index/flexsearch-memorystore.sqlite-journal",
     "docs/md/(PERSON)(ezra)(b089c425-30ef-4151-86aa-006f551f7fe8).md",
     "docs/md/(PERSON)(bethany)(86a524f8-9421-44db-80d6-8960dadc093f).md",
     "docs/md/(DIARY)(emmett-ist-1)(4f64ce16-706c-49cd-ba93-bcc381ad5ed1).md",
     "docs/md/(DIARY)(schlechte-nachrichten)(ea7ba881-0bf0-4764-ae8e-8e89a87ae90f).md",
     "docs/md/(DIARY)(tagebucheintrag-7825)(bda6d098-942a-49be-818c-0d5c52665f58).md",
     "Images/2025-08-06 2.jpeg",
-    "Images/2025-08-06 1.jpeg",
-    "Images/4b1f5ce44a435e5f2c185bcb9df23acd.jpeg",
-    "Images/f8ab5c34c6c7ffc71922133715c19e23.jpeg",
     "docs/md/(PERSON)(gerti-meyer)(b3b4f504-b3fb-488c-a4bd-1c0222a638c7).md",
     "docs/md/(PERSON)(ingo-meyer)(e7d4edd8-b731-414d-8fa2-e9b37923d5d6).md",
     "docs/md/(PERSON)(bryan-nickola)(25633d06-b917-4400-9782-a319396888b0).md",
@@ -205,20 +228,6 @@
     "docs/md/(PERSON)(nancy-nan-walk)(cc3f5120-34a7-44c5-8bd1-8674eb2682c5).md",
     "docs/md/(PERSON)(emmett-walk-meyer)(2bd89fe9-509a-4062-a5bf-811b5b7afb8a).md",
     "docs/md/(PERSON)(ezra-walk-meyer)(1b0fcfb9-2564-4bdb-85ef-2d38250bf3b1).md",
-    "docs/md/(PERSON)(bethany-walk)(883ae491-f3e1-496b-87ee-f156a794d164).md",
-    "docs/md/(PERSON)(karolin-hofer)(6f5b7602-6740-400a-94ae-a0e81ef44389).md",
-    "docs/md/(PERSON)(joe)(78e63364-9cc6-48dc-b75d-58ba66e85588).md",
-    "docs/md/(PERSON)(nan)(cc3f5120-34a7-44c5-8bd1-8674eb2682c5).md",
-    "docs/md/(PERSON)(dirk)(8e6a63a0-184b-45eb-8b38-f810907ad622).md",
-    "docs/md/(PERSON)(frau-hofer)(6f5b7602-6740-400a-94ae-a0e81ef44389).md",
-    "Images/2025-08-15 2.jpeg",
-    "Images/46249ebc3205fd8b84095df3d7f44caf.jpeg",
-    "Images/2025-08-15 1.jpeg",
-    "Images/9f3487041411afece9b8e68c8ab1c6bc.jpeg",
-    "docs/md/(PERSON)(liz)(180f416c-ce78-4904-acb5-f04a430e963e).md",
-    "docs/md/(PLACE)(garten)(58e7611c-360b-4fa7-81e0-cac7f2515aa4).md",
-    "docs/md/(DIARY)(sa-9825-schwimmbad-date)(96f16d6f-c2ec-4c9d-b5c6-a56e32a1d587).md",
-    "Images/2025-08-07 1.jpeg",
     "Atlas"
   ]
 }

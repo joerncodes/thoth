@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:14:36.712Z'
-updated_at: '2025-11-18T13:40:52.453Z'
+updated_at: '2025-11-19T16:02:00.296Z'
 last_reviewed: '2025-11-17T11:14:36.712Z'
 links:
   - 0a4d6b85-f1d4-496b-8a02-d8577f3c6d1a
@@ -15,6 +15,7 @@ links:
   - ea7ba881-0bf0-4764-ae8e-8e89a87ae90f
   - 4130c073-8c28-4263-a406-6bab5c5385a4
   - 4f64ce16-706c-49cd-ba93-bcc381ad5ed1
+  - 9b3e2ea3-bbd3-4c99-b832-67f89f125e4a
 sources: []
 abstract: >-
   Person, die im Tagebucheintrag vom 14.8.25 erwähnt wurde. War gestresst von
@@ -24,3 +25,7 @@ abstract: >-
 # Bethany Walk
 
 Meine Frau.
+
+## Related
+
+- [[(DIARY)(gehalt-verhandelt)(9b3e2ea3-bbd3-4c99-b832-67f89f125e4a)|Gehalt: Verhandelt]]

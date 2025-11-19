@@ -5,12 +5,17 @@ tags:
   - persons
 category: PERSON
 created_at: '2025-11-18T13:41:10.548Z'
-updated_at: '2025-11-18T13:41:39.192Z'
+updated_at: '2025-11-19T16:01:58.799Z'
 last_reviewed: '2025-11-18T13:41:10.548Z'
-links: []
+links:
+  - 9b3e2ea3-bbd3-4c99-b832-67f89f125e4a
 sources: []
 ---
 
 # Gerti Meyer
 
 Meine Mutter.
+
+## Related
+
+- [[(DIARY)(gehalt-verhandelt)(9b3e2ea3-bbd3-4c99-b832-67f89f125e4a)|Gehalt: Verhandelt]]

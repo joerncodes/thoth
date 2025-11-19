@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:34:10.621Z'
-updated_at: '2025-11-18T13:40:53.694Z'
+updated_at: '2025-11-18T14:01:00.614Z'
 last_reviewed: '2025-11-17T11:34:10.621Z'
 links:
   - f79631b0-3d79-46c9-93b7-19b3e68ec76f
@@ -14,9 +14,14 @@ links:
   - c1f517b0-6f5d-4687-ac95-28524cb91024
   - 4130c073-8c28-4263-a406-6bab5c5385a4
   - 4f64ce16-706c-49cd-ba93-bcc381ad5ed1
+  - b00d5a5d-60f6-4168-b87d-d8c03aadf1cc
 sources: []
 ---
 
 # Ezra Walk-Meyer
 
 Mein erstgeborener Sohn.
+
+## Related
+
+- [[(DIARY)(letzter-tag-als-dev)(b00d5a5d-60f6-4168-b87d-d8c03aadf1cc)|Letzter Tag als Dev]]
