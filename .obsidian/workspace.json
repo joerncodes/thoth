@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/md/(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa).md",
+                "file": "docs/md/(DIARY)(ein-angebot)(a73016e5-d05c-4476-afcb-ed527aaef689).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa)"
+              "title": "(DIARY)(ein-angebot)(a73016e5-d05c-4476-afcb-ed527aaef689)"
             }
           }
         ]
@@ -183,6 +183,9 @@
   "active": "a1551ad9443a34b0",
   "lastOpenFiles": [
     "docs/index/flexsearch-memorystore.sqlite-journal",
+    "docs/md/(PLACE)(haus-im-glck)(dda261a0-6aac-444f-a6b1-3792f079ef90).md",
+    "Atlas/Diary.base",
+    "docs/md/(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa).md",
     "docs/md/(PERSON)(sarah-wller)(90cc8942-f75c-4ba3-88a6-145ef3de439e).md",
     "docs/md/(PERSON)(sarah-frster)(90cc8942-f75c-4ba3-88a6-145ef3de439e).md",
     "docs/md/(PERSON)(matthias-laps)(ea6b5148-af25-47b5-8b92-418b1f384e47).md",
@@ -192,11 +195,9 @@
     "Images/2025-08-01.jpeg",
     "Images/1d36d2eeb22f34a09f6eeb7ffeb8889b.jpeg",
     "docs/md/(PERSON)(patrick-feldt)(b1c07627-cb95-4c05-9fbf-923375c9a36a).md",
-    "Atlas/Diary.base",
     "docs/md/(DIARY)(tagebucheintrag-030825)(026dd149-45d9-4ccf-b2c3-2a761013377e).md",
     "docs/md/(PERSON)(patrick)(b1c07627-cb95-4c05-9fbf-923375c9a36a).md",
     "docs/md/(PERSON)(lizee-mller)(e061a5ad-3eba-47c6-8325-391f21c10aea).md",
-    "docs/md/(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa).md",
     "Images/2025-08-02 2.jpeg",
     "Images/2025-08-02 Museum.jpeg",
     "Images/756f79d65eb45cdaf2ee181db0110c16.jpeg",
@@ -218,7 +219,6 @@
     "docs/md/(PERSON)(leon)(070440b2-e2e2-49eb-9931-ddd71bf4014a).md",
     "docs/md/(PERSON)(kristina)(b0c4f78d-e7d6-4f07-9718-01e5a52fd48f).md",
     "docs/md/(DIARY)(tagebucheintrag-060825)(46ffe812-18d3-4f2c-baee-44d483079eee).md",
-    "docs/md/(PERSON)(markus)(02080965-ed83-475b-887e-e9df0c4531b3).md",
     "Atlas"
   ]
 }
