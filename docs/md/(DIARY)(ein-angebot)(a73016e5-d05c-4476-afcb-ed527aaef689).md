@@ -3,7 +3,6 @@ id: a73016e5-d05c-4476-afcb-ed527aaef689
 title: Ein Angebot
 tags:
   - diary
-  - 2025-08-01T00:00:00.000Z
   - jobs
   - families
   - food
@@ -15,9 +14,9 @@ tags:
   - wine
   - gaming
 category: DIARY
-created_at: '2025-11-20T07:42:06.258Z'
-updated_at: '2025-11-20T07:58:21.970Z'
-last_reviewed: '2025-11-20T07:42:06.258Z'
+created_at: 2025-11-20T07:42:06.258Z
+updated_at: 2025-11-20T08:00:41.290Z
+last_reviewed: 2025-11-20T07:42:06.258Z
 links:
   - 883ae491-f3e1-496b-87ee-f156a794d164
   - 87582c06-f448-4460-8fd1-f5fd364ba21b
@@ -26,12 +25,9 @@ links:
   - a73016e5-d05c-4476-afcb-ed527aaef689
   - dda261a0-6aac-444f-a6b1-3792f079ef90
 sources: []
-abstract: >-
-  Tagebucheintrag über ein Gehaltsangebot von Olli: 78.000€/Jahr ab Zeitpunkt X,
-  bis dahin Einmalzahlungen. Feierliches Abendessen im Hans im Glück mit der
-  Familie.
-mood: null
-date: '2025-08-01'
+abstract: "Tagebucheintrag über ein Gehaltsangebot von Olli: 78.000€/Jahr ab Zeitpunkt X, bis dahin Einmalzahlungen. Feierliches Abendessen im Hans im Glück mit der Familie."
+mood: 7
+date: 2025-08-01T00:00:00.000Z
 place: dda261a0-6aac-444f-a6b1-3792f079ef90
 ---
 
@@ -51,12 +47,3 @@ Wir fuhren zur Feier des Tages zum Hans im Glück zum Abendessen, wo die Kids si
 
 ## Bilder
 ![[2025-08-01.jpeg]]
-
-## Related
-
-- [[(PERSON)(bethany-walk)(883ae491-f3e1-496b-87ee-f156a794d164)|Bethany Walk]]
-- [[(PERSON)(olli-blum)(87582c06-f448-4460-8fd1-f5fd364ba21b)|Olli Blum]]
-- [[(PERSON)(matthias)(ea6b5148-af25-47b5-8b92-418b1f384e47)|Matthias]]
-- [[(PERSON)(sarah)(90cc8942-f75c-4ba3-88a6-145ef3de439e)|Sarah]]
-- [[(DIARY)(ein-angebot)(a73016e5-d05c-4476-afcb-ed527aaef689)|Ein Angebot]]
-- [[(PLACE)(haus-im-glck)(dda261a0-6aac-444f-a6b1-3792f079ef90)|Haus im Glück]]

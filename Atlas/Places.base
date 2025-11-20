@@ -1,0 +1,18 @@
+formulas:
+  Entries: file.links.length
+views:
+  - type: map
+    name: Table
+    filters:
+      and:
+        - category == "PLACE"
+    order:
+      - title
+      - address
+      - file.links
+    columnSize:
+      note.latitude: 104
+      note.longitude: 108
+    center: "[50.735851,7.10066]"
+    coordinates: note.coordinates
+    defaultZoom: 4

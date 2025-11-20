@@ -3,7 +3,7 @@ id: f89a3e1e-240f-4354-818e-83ff8cd3baaa
 title: Tagebucheintrag 02.08.25
 tags:
   - diary
-  - '2025-08-02'
+  - 2025-08-02
   - hasphoto
   - families
   - activities
@@ -17,9 +17,9 @@ tags:
   - pride
   - cinema
 category: DIARY
-created_at: '2025-11-20T07:26:32.748Z'
-updated_at: '2025-11-20T07:27:00.889Z'
-last_reviewed: '2025-11-20T07:26:32.748Z'
+created_at: 2025-11-20T07:26:32.748Z
+updated_at: 2025-11-20T07:27:00.889Z
+last_reviewed: 2025-11-20T07:26:32.748Z
 links:
   - 2bd89fe9-509a-4062-a5bf-811b5b7afb8a
   - 1b0fcfb9-2564-4bdb-85ef-2d38250bf3b1
@@ -28,13 +28,10 @@ links:
   - b1c07627-cb95-4c05-9fbf-923375c9a36a
   - e061a5ad-3eba-47c6-8325-391f21c10aea
 sources: []
-abstract: >-
-  Früher Start mit den Kindern, Gartenbesuch, Ägypten-Ausstellung der Uni Bonn
-  mit Käfer-Ausstellung, Pride-Veranstaltung, Blowout-Katastrophe mit Emmett,
-  abends Kino mit Patrick (Superman) und Bier.
-mood: 1
-date: '2025-08-02'
-place: null
+abstract: Früher Start mit den Kindern, Gartenbesuch, Ägypten-Ausstellung der Uni Bonn mit Käfer-Ausstellung, Pride-Veranstaltung, Blowout-Katastrophe mit Emmett, abends Kino mit Patrick (Superman) und Bier.
+mood: 8
+date: 2025-08-02
+place:
 ---
 
 # Tagebucheintrag 02.08.25

@@ -8,20 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1551ad9443a34b0",
+            "id": "775daada9e78ec3b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Atlas/Diary.base",
+                "viewName": "Table"
+              },
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "Diary"
+            }
+          },
+          {
+            "id": "bae9156bd4f75c49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/md/(DIARY)(ein-angebot)(a73016e5-d05c-4476-afcb-ed527aaef689).md",
+                "file": "docs/md/(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(DIARY)(ein-angebot)(a73016e5-d05c-4476-afcb-ed527aaef689)"
+              "title": "(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,18 +196,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "a1551ad9443a34b0",
+  "active": "bae9156bd4f75c49",
   "lastOpenFiles": [
-    "docs/index/flexsearch-memorystore.sqlite-journal",
-    "docs/md/(PLACE)(haus-im-glck)(dda261a0-6aac-444f-a6b1-3792f079ef90).md",
     "Atlas/Diary.base",
+    "docs/md/(DIARY)(sa-9825-schwimmbad-date)(96f16d6f-c2ec-4c9d-b5c6-a56e32a1d587).md",
+    "Analyse_August_2025.md",
+    "docs/md/(PLACE)(hans-im-glck)(dda261a0-6aac-444f-a6b1-3792f079ef90).md",
+    "docs/md/(DIARY)(ein-angebot)(a73016e5-d05c-4476-afcb-ed527aaef689).md",
+    "Atlas/Places.base",
+    "docs/index/flexsearch-memorystore.sqlite-journal",
+    "docs/md/(PLACE)(spinozastrae-15-kaiserslautern-familie-nickola)(23966a02-90a3-4ce9-b03b-320cd50e1066).md",
+    "docs/md/(PLACE)(garten)(58e7611c-360b-4fa7-81e0-cac7f2515aa4).md",
+    "docs/md/(PLACE)(haus-im-glck)(dda261a0-6aac-444f-a6b1-3792f079ef90).md",
     "docs/md/(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa).md",
     "docs/md/(PERSON)(sarah-wller)(90cc8942-f75c-4ba3-88a6-145ef3de439e).md",
     "docs/md/(PERSON)(sarah-frster)(90cc8942-f75c-4ba3-88a6-145ef3de439e).md",
     "docs/md/(PERSON)(matthias-laps)(ea6b5148-af25-47b5-8b92-418b1f384e47).md",
     "docs/md/(PERSON)(matthes)(9365792b-1f1d-44d3-803c-fc80308f59c9).md",
     "docs/md/(PERSON)(sarah)(90cc8942-f75c-4ba3-88a6-145ef3de439e).md",
-    "docs/md/(DIARY)(ein-angebot)(a73016e5-d05c-4476-afcb-ed527aaef689).md",
     "Images/2025-08-01.jpeg",
     "Images/1d36d2eeb22f34a09f6eeb7ffeb8889b.jpeg",
     "docs/md/(PERSON)(patrick-feldt)(b1c07627-cb95-4c05-9fbf-923375c9a36a).md",
@@ -214,11 +236,6 @@
     "docs/md/(PERSON)(matthias)(ea6b5148-af25-47b5-8b92-418b1f384e47).md",
     "docs/md/(PERSON)(tego)(ffb8bae9-dbd7-4963-9384-ba0dce8fef2f).md",
     "docs/md/(DIARY)(letzter-tag-als-dev)(b00d5a5d-60f6-4168-b87d-d8c03aadf1cc).md",
-    "docs/md/(PERSON)(philipp)(7e88e5a0-4d8f-4949-a082-9db40f95de2d).md",
-    "docs/md/(PERSON)(can)(42bed503-ac05-49ef-ab01-db43b0d1f1a7).md",
-    "docs/md/(PERSON)(leon)(070440b2-e2e2-49eb-9931-ddd71bf4014a).md",
-    "docs/md/(PERSON)(kristina)(b0c4f78d-e7d6-4f07-9718-01e5a52fd48f).md",
-    "docs/md/(DIARY)(tagebucheintrag-060825)(46ffe812-18d3-4f2c-baee-44d483079eee).md",
     "Atlas"
   ]
 }
