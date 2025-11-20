@@ -5,11 +5,12 @@ tags:
   - persons
 category: PERSON
 created_at: '2025-11-17T15:14:57.826Z'
-updated_at: '2025-11-19T16:03:27.324Z'
+updated_at: '2025-11-20T07:42:13.711Z'
 last_reviewed: '2025-11-17T15:14:57.826Z'
 links:
   - ea7ba881-0bf0-4764-ae8e-8e89a87ae90f
   - 9b3e2ea3-bbd3-4c99-b832-67f89f125e4a
+  - a73016e5-d05c-4476-afcb-ed527aaef689
 sources: []
 ---
 
@@ -25,3 +26,4 @@ CEO meiner Firma.
 ## Related
 
 - [[(DIARY)(gehalt-verhandelt)(9b3e2ea3-bbd3-4c99-b832-67f89f125e4a)|Gehalt: Verhandelt]]
+- [[(DIARY)(ein-angebot)(a73016e5-d05c-4476-afcb-ed527aaef689)|Ein Angebot]]
