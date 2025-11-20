@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:14:36.712Z'
-updated_at: '2025-11-19T20:35:49.709Z'
+updated_at: '2025-11-20T06:45:33.074Z'
 last_reviewed: '2025-11-17T11:14:36.712Z'
 links:
   - 0a4d6b85-f1d4-496b-8a02-d8577f3c6d1a
@@ -17,6 +17,7 @@ links:
   - 4f64ce16-706c-49cd-ba93-bcc381ad5ed1
   - 9b3e2ea3-bbd3-4c99-b832-67f89f125e4a
   - aa8533a0-f0a6-4fb5-9a9b-f69afa137022
+  - 026dd149-45d9-4ccf-b2c3-2a761013377e
 sources: []
 abstract: >-
   Person, die im Tagebucheintrag vom 14.8.25 erwähnt wurde. War gestresst von
@@ -31,3 +32,4 @@ Meine Frau.
 
 - [[(DIARY)(gehalt-verhandelt)(9b3e2ea3-bbd3-4c99-b832-67f89f125e4a)|Gehalt: Verhandelt]]
 - [[(DIARY)(sa-16825-emmetts-geburtstagsfeier)(aa8533a0-f0a6-4fb5-9a9b-f69afa137022)|Sa. 16.8.25 - Emmett's Geburtstagsfeier]]
+- [[(DIARY)(tagebucheintrag-030825)(026dd149-45d9-4ccf-b2c3-2a761013377e)|Tagebucheintrag 03.08.25]]

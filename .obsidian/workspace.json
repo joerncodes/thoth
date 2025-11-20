@@ -11,13 +11,14 @@
             "id": "a1551ad9443a34b0",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Atlas/Diary.base",
-                "viewName": "Table"
+                "file": "docs/md/(DIARY)(tagebucheintrag-030825)(026dd149-45d9-4ccf-b2c3-2a761013377e).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Diary"
+              "icon": "lucide-file",
+              "title": "(DIARY)(tagebucheintrag-030825)(026dd149-45d9-4ccf-b2c3-2a761013377e)"
             }
           }
         ]
@@ -181,9 +182,16 @@
   },
   "active": "a1551ad9443a34b0",
   "lastOpenFiles": [
-    "docs/md/(DIARY)(sa-16825-emmetts-geburtstagsfeier)(aa8533a0-f0a6-4fb5-9a9b-f69afa137022).md",
-    "Atlas/Diary.base",
     "docs/index/flexsearch-memorystore.sqlite-journal",
+    "Atlas/Diary.base",
+    "docs/md/(PERSON)(lize)(ae80ba5a-b3b8-4bc8-9605-25aff255fc96).md",
+    "docs/md/(PERSON)(eira)(d637b111-1c46-4a73-b27e-1f5824fd46b6).md",
+    "docs/md/(DIARY)(tagebucheintrag-030825)(026dd149-45d9-4ccf-b2c3-2a761013377e).md",
+    "Images/2028-08-03 2.jpeg",
+    "Images/791512562c517eb28712d375be7067c3.jpeg",
+    "Images/2028-08-03 1.jpeg",
+    "Images/fb15534733defc7f6e06ecd8eda2ac1d.jpeg",
+    "docs/md/(DIARY)(sa-16825-emmetts-geburtstagsfeier)(aa8533a0-f0a6-4fb5-9a9b-f69afa137022).md",
     "Images/2025-08-16 Emmett Cake.jpeg",
     "Images/38853fa23f99ff07d62bdefe211ec08e.jpeg",
     "Images/2025-08-16 2.jpeg",
@@ -194,10 +202,6 @@
     "docs/md/(PERSON)(olli-blum)(87582c06-f448-4460-8fd1-f5fd364ba21b).md",
     "docs/md/(PERSON)(matthias)(ea6b5148-af25-47b5-8b92-418b1f384e47).md",
     "docs/md/(PERSON)(tego)(ffb8bae9-dbd7-4963-9384-ba0dce8fef2f).md",
-    "Images/2025-08-04 Solution Architect.jpeg",
-    "Images/a5c9368d0d08ba05bf072f27e5a32812.jpeg",
-    "Images/2025-08-04 2.jpeg",
-    "Images/05a48c28dbd15525dae0fa9847b7cfec.jpeg",
     "docs/md/(DIARY)(letzter-tag-als-dev)(b00d5a5d-60f6-4168-b87d-d8c03aadf1cc).md",
     "docs/md/(PERSON)(philipp)(7e88e5a0-4d8f-4949-a082-9db40f95de2d).md",
     "docs/md/(PERSON)(can)(42bed503-ac05-49ef-ab01-db43b0d1f1a7).md",
@@ -215,9 +219,6 @@
     "docs/md/(PERSON)(bryan-nickola)(25633d06-b917-4400-9782-a319396888b0).md",
     "docs/md/(PERSON)(kat-nickola)(a5bd805b-74af-4dce-b370-4746d4e53847).md",
     "docs/md/(PERSON)(dirk-meyer)(8e6a63a0-184b-45eb-8b38-f810907ad622).md",
-    "docs/md/(PERSON)(joe-pajoe-walk)(78e63364-9cc6-48dc-b75d-58ba66e85588).md",
-    "docs/md/(PERSON)(nancy-nan-walk)(cc3f5120-34a7-44c5-8bd1-8674eb2682c5).md",
-    "docs/md/(PERSON)(emmett-walk-meyer)(2bd89fe9-509a-4062-a5bf-811b5b7afb8a).md",
     "Atlas"
   ]
 }
