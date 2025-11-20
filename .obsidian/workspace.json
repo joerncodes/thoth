@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/md/(DIARY)(tagebucheintrag-030825)(026dd149-45d9-4ccf-b2c3-2a761013377e).md",
+                "file": "docs/md/(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(DIARY)(tagebucheintrag-030825)(026dd149-45d9-4ccf-b2c3-2a761013377e)"
+              "title": "(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa)"
             }
           }
         ]
@@ -183,21 +183,25 @@
   "active": "a1551ad9443a34b0",
   "lastOpenFiles": [
     "docs/index/flexsearch-memorystore.sqlite-journal",
+    "docs/md/(PERSON)(patrick-feldt)(b1c07627-cb95-4c05-9fbf-923375c9a36a).md",
     "Atlas/Diary.base",
+    "docs/md/(DIARY)(tagebucheintrag-030825)(026dd149-45d9-4ccf-b2c3-2a761013377e).md",
+    "docs/md/(PERSON)(patrick)(b1c07627-cb95-4c05-9fbf-923375c9a36a).md",
+    "docs/md/(PERSON)(lizee-mller)(e061a5ad-3eba-47c6-8325-391f21c10aea).md",
+    "docs/md/(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa).md",
+    "Images/2025-08-02 2.jpeg",
+    "Images/2025-08-02 Museum.jpeg",
+    "Images/756f79d65eb45cdaf2ee181db0110c16.jpeg",
+    "Images/2028-08-02 2.jpeg",
+    "Images/2025-08-02 1.jpeg",
+    "Images/efc02ae6250669710e67a1d5534d4705.jpeg",
+    "Images/156361789cd881fc34ce62340f52de0b.jpeg",
     "docs/md/(PERSON)(lize)(ae80ba5a-b3b8-4bc8-9605-25aff255fc96).md",
     "docs/md/(PERSON)(eira)(d637b111-1c46-4a73-b27e-1f5824fd46b6).md",
-    "docs/md/(DIARY)(tagebucheintrag-030825)(026dd149-45d9-4ccf-b2c3-2a761013377e).md",
     "Images/2028-08-03 2.jpeg",
     "Images/791512562c517eb28712d375be7067c3.jpeg",
     "Images/2028-08-03 1.jpeg",
-    "Images/fb15534733defc7f6e06ecd8eda2ac1d.jpeg",
     "docs/md/(DIARY)(sa-16825-emmetts-geburtstagsfeier)(aa8533a0-f0a6-4fb5-9a9b-f69afa137022).md",
-    "Images/2025-08-16 Emmett Cake.jpeg",
-    "Images/38853fa23f99ff07d62bdefe211ec08e.jpeg",
-    "Images/2025-08-16 2.jpeg",
-    "Images/10758f677ab3da4a6fc8b6ec5168363d.jpeg",
-    "Images/2025-08-16 1.jpeg",
-    "Images/bd6469aba937533484151185d72f2d41.jpeg",
     "docs/md/(DIARY)(gehalt-verhandelt)(9b3e2ea3-bbd3-4c99-b832-67f89f125e4a).md",
     "docs/md/(PERSON)(olli-blum)(87582c06-f448-4460-8fd1-f5fd364ba21b).md",
     "docs/md/(PERSON)(matthias)(ea6b5148-af25-47b5-8b92-418b1f384e47).md",
@@ -215,10 +219,6 @@
     "docs/md/(DIARY)(schlechte-nachrichten)(ea7ba881-0bf0-4764-ae8e-8e89a87ae90f).md",
     "docs/md/(DIARY)(tagebucheintrag-7825)(bda6d098-942a-49be-818c-0d5c52665f58).md",
     "docs/md/(PERSON)(gerti-meyer)(b3b4f504-b3fb-488c-a4bd-1c0222a638c7).md",
-    "docs/md/(PERSON)(ingo-meyer)(e7d4edd8-b731-414d-8fa2-e9b37923d5d6).md",
-    "docs/md/(PERSON)(bryan-nickola)(25633d06-b917-4400-9782-a319396888b0).md",
-    "docs/md/(PERSON)(kat-nickola)(a5bd805b-74af-4dce-b370-4746d4e53847).md",
-    "docs/md/(PERSON)(dirk-meyer)(8e6a63a0-184b-45eb-8b38-f810907ad622).md",
     "Atlas"
   ]
 }
