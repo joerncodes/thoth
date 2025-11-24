@@ -37,8 +37,8 @@ Die Arbeit bestand heute hauptsächlich daraus, am Exocortex zu schrauben, dem g
 Bethany löste mich irgendwann ab, damit ich Drink Gnocchi kochen konnte. Von draußen konnte ich immer noch die Jubelschreie der Kinder hören. Später, als die Kids schliefen, fuhr Bethany in den Garten und ich schaute die erste Hälfte von Barbarians. Interessante Prämisse, aber GOTT, bin ich vielleicht müde.
 
 ## Bilder
-![[588c6a5cc7168ebfe6d3c9c776e7b2db.jpeg]]
-![[6b5ad03db47c8141a624c0ff9e148b98.jpeg]]
+![[2025-08-18 1.jpeg]]
+![[2025-08-18 2.jpeg]]
 
 ## Related
 

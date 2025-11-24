@@ -4,18 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ed4935b0f3b2925b",
+        "id": "b6da8c3a174476b7",
         "type": "tabs",
         "children": [
           {
-            "id": "775daada9e78ec3b",
+            "id": "d6eda23923ea7995",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "bases",
               "state": {
                 "file": "Atlas/Diary.base",
                 "viewName": "Table"
               },
+              "pinned": true,
               "icon": "lucide-table",
               "title": "Diary"
             }
@@ -180,13 +182,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "775daada9e78ec3b",
+  "active": "d6eda23923ea7995",
   "lastOpenFiles": [
+    "docs/md/(DIARY)(tagebucheintrag-18825)(bab1e596-d233-498f-a27a-300d04cca910).md",
+    "Atlas/Diary.base",
+    "Images/2025-08-18 2.jpeg",
+    "Images/2025-08-18 1.jpeg",
+    "Images/6037225ef5ae227b6204a8f4f4875d75.jpeg",
+    "Images/8f69b4c595bfd5cd4bddca83b91e9def.jpeg",
+    "Images/f618a996e23f04cecfc2f33bdd2bbcc2.jpeg",
     "docs/index/flexsearch-memorystore.sqlite-journal",
     "docs/md/(PERSON)(romia-bansky)(a1a43211-9845-4cad-bd22-c9eba4790e64).md",
     "docs/md/(PERSON)(taisja-bansky)(56bfda4b-20d5-43a2-b39f-5da62e8f289b).md",
-    "Atlas/Diary.base",
-    "docs/md/(DIARY)(tagebucheintrag-18825)(bab1e596-d233-498f-a27a-300d04cca910).md",
     "docs/md/(PERSON)(romia)(a1a43211-9845-4cad-bd22-c9eba4790e64).md",
     "docs/md/(PERSON)(taisja)(56bfda4b-20d5-43a2-b39f-5da62e8f289b).md",
     "Images/588c6a5cc7168ebfe6d3c9c776e7b2db.jpeg.sb-c5631537-HUfR54",
@@ -201,13 +208,8 @@
     "Images/2025-08-17 2.jpeg",
     "Images/92cf00862d1f9de09b87423d4eb6fce2.jpeg",
     "Images/2025-08-17 1.jpeg",
-    "Images/0a47dc389c82f1ce850f987f312f1647.jpeg",
     "docs/md/(DIARY)(tagebucheintrag-060825)(46ffe812-18d3-4f2c-baee-44d483079eee).md",
     "docs/md/(DIARY)(tagebucheintrag-30725)(86b0acc0-5213-4bcb-a7e3-f63ca8c7f28f).md",
-    "Images/2025-07-30 Baggerfahrer.jpeg",
-    "Images/2025-07-30 2.jpeg",
-    "Images/2025-07-30 1.jpeg 2.jpeg",
-    "Images/2025-07-30 1.jpeg",
     "docs/md/(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa).md",
     "docs/md/(DIARY)(sa-9825-schwimmbad-date)(96f16d6f-c2ec-4c9d-b5c6-a56e32a1d587).md",
     "Analyse_August_2025.md",
