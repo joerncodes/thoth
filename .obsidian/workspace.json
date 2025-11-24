@@ -19,21 +19,8 @@
               "icon": "lucide-table",
               "title": "Diary"
             }
-          },
-          {
-            "id": "cf167611e39b4bcd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atlas/Diary.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Diary"
             }
           },
           {
@@ -192,11 +180,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "cf167611e39b4bcd",
+  "active": "775daada9e78ec3b",
   "lastOpenFiles": [
-    "Atlas/Diary.base",
-    "docs/md/(DIARY)(mission-ki)(e963312a-02d0-48b6-be2f-3c966540a1a6).md",
     "docs/index/flexsearch-memorystore.sqlite-journal",
+    "docs/md/(PERSON)(romia-bansky)(a1a43211-9845-4cad-bd22-c9eba4790e64).md",
+    "docs/md/(PERSON)(taisja-bansky)(56bfda4b-20d5-43a2-b39f-5da62e8f289b).md",
+    "Atlas/Diary.base",
+    "docs/md/(DIARY)(tagebucheintrag-18825)(bab1e596-d233-498f-a27a-300d04cca910).md",
+    "docs/md/(PERSON)(romia)(a1a43211-9845-4cad-bd22-c9eba4790e64).md",
+    "docs/md/(PERSON)(taisja)(56bfda4b-20d5-43a2-b39f-5da62e8f289b).md",
+    "Images/588c6a5cc7168ebfe6d3c9c776e7b2db.jpeg.sb-c5631537-HUfR54",
+    "Images/6b5ad03db47c8141a624c0ff9e148b98.jpeg",
+    "Images/588c6a5cc7168ebfe6d3c9c776e7b2db.jpeg",
+    "docs/md/(DIARY)(mission-ki)(e963312a-02d0-48b6-be2f-3c966540a1a6).md",
     "2025-11-20.md",
     "docs/md/(PLACE)(deutsches-museum-bonn)(511f1f1d-4ba8-4899-8ca1-609c3d67c232).md",
     "Atlas/Places.base",
@@ -212,8 +208,6 @@
     "Images/2025-07-30 2.jpeg",
     "Images/2025-07-30 1.jpeg 2.jpeg",
     "Images/2025-07-30 1.jpeg",
-    "Images/F24DF77C-89DB-44C2-B0C3-A4533B708802_1_105_c.jpeg",
-    "Images/ed39684783297379079398d68db646bf.jpeg",
     "docs/md/(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa).md",
     "docs/md/(DIARY)(sa-9825-schwimmbad-date)(96f16d6f-c2ec-4c9d-b5c6-a56e32a1d587).md",
     "Analyse_August_2025.md",
@@ -228,11 +222,6 @@
     "docs/md/(PERSON)(sarah)(90cc8942-f75c-4ba3-88a6-145ef3de439e).md",
     "docs/md/(PERSON)(patrick-feldt)(b1c07627-cb95-4c05-9fbf-923375c9a36a).md",
     "docs/md/(DIARY)(tagebucheintrag-030825)(026dd149-45d9-4ccf-b2c3-2a761013377e).md",
-    "docs/md/(PERSON)(patrick)(b1c07627-cb95-4c05-9fbf-923375c9a36a).md",
-    "docs/md/(PERSON)(lizee-mller)(e061a5ad-3eba-47c6-8325-391f21c10aea).md",
-    "docs/md/(PERSON)(lize)(ae80ba5a-b3b8-4bc8-9605-25aff255fc96).md",
-    "docs/md/(PERSON)(eira)(d637b111-1c46-4a73-b27e-1f5824fd46b6).md",
-    "docs/md/(DIARY)(sa-16825-emmetts-geburtstagsfeier)(aa8533a0-f0a6-4fb5-9a9b-f69afa137022).md",
     "Atlas"
   ]
 }

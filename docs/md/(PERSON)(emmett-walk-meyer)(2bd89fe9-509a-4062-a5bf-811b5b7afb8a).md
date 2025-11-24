@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:14:37.504Z'
-updated_at: '2025-11-20T19:52:45.189Z'
+updated_at: '2025-11-24T09:01:18.058Z'
 last_reviewed: '2025-11-17T11:14:37.504Z'
 links:
   - 0a4d6b85-f1d4-496b-8a02-d8577f3c6d1a
@@ -17,6 +17,7 @@ links:
   - aa8533a0-f0a6-4fb5-9a9b-f69afa137022
   - f89a3e1e-240f-4354-818e-83ff8cd3baaa
   - e963312a-02d0-48b6-be2f-3c966540a1a6
+  - bab1e596-d233-498f-a27a-300d04cca910
 sources: []
 abstract: >-
   Person, die im Tagebucheintrag vom 14.8.25 erwähnt wurde. Weckte früh, aß
@@ -32,3 +33,4 @@ Mein zweitgeborener Sohn.
 - [[(DIARY)(sa-16825-emmetts-geburtstagsfeier)(aa8533a0-f0a6-4fb5-9a9b-f69afa137022)|Sa. 16.8.25 - Emmett's Geburtstagsfeier]]
 - [[(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa)|Tagebucheintrag 02.08.25]]
 - [[(DIARY)(mission-ki)(e963312a-02d0-48b6-be2f-3c966540a1a6)|Mission KI]]
+- [[(DIARY)(tagebucheintrag-18825)(bab1e596-d233-498f-a27a-300d04cca910)|Tagebucheintrag 18.8.25]]
