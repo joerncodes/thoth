@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:34:10.621Z'
-updated_at: '2025-11-20T12:52:32.334Z'
+updated_at: '2025-11-20T19:52:46.122Z'
 last_reviewed: '2025-11-17T11:34:10.621Z'
 links:
   - f79631b0-3d79-46c9-93b7-19b3e68ec76f
@@ -19,6 +19,7 @@ links:
   - 026dd149-45d9-4ccf-b2c3-2a761013377e
   - f89a3e1e-240f-4354-818e-83ff8cd3baaa
   - 86b0acc0-5213-4bcb-a7e3-f63ca8c7f28f
+  - e963312a-02d0-48b6-be2f-3c966540a1a6
 sources: []
 ---
 
@@ -33,3 +34,4 @@ Mein erstgeborener Sohn.
 - [[(DIARY)(tagebucheintrag-030825)(026dd149-45d9-4ccf-b2c3-2a761013377e)|Tagebucheintrag 03.08.25]]
 - [[(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa)|Tagebucheintrag 02.08.25]]
 - [[(DIARY)(tagebucheintrag-30725)(86b0acc0-5213-4bcb-a7e3-f63ca8c7f28f)|Tagebucheintrag 30.7.25]]
+- [[(DIARY)(mission-ki)(e963312a-02d0-48b6-be2f-3c966540a1a6)|Mission KI]]
