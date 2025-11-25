@@ -15,7 +15,7 @@ views:
       note.longitude: 108
     center: "[50.735851,7.10066]"
     coordinates: note.coordinates
-    defaultZoom: 4
+    defaultZoom: 11
   - type: table
     name: Table 2
     filters:
@@ -25,6 +25,7 @@ views:
       - title
       - address
       - file.links
+      - coordinates
     columnSize:
       note.title: 191
     center: "[50.735851,7.10066]"
