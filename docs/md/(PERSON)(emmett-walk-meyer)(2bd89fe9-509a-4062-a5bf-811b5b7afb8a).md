@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:14:37.504Z'
-updated_at: '2025-11-24T09:01:18.058Z'
+updated_at: '2025-11-27T20:08:26.898Z'
 last_reviewed: '2025-11-17T11:14:37.504Z'
 links:
   - 0a4d6b85-f1d4-496b-8a02-d8577f3c6d1a
@@ -18,6 +18,7 @@ links:
   - f89a3e1e-240f-4354-818e-83ff8cd3baaa
   - e963312a-02d0-48b6-be2f-3c966540a1a6
   - bab1e596-d233-498f-a27a-300d04cca910
+  - 73e14b7c-7ce5-4820-a937-68544a9d8743
 sources: []
 abstract: >-
   Person, die im Tagebucheintrag vom 14.8.25 erwähnt wurde. Weckte früh, aß
@@ -34,3 +35,4 @@ Mein zweitgeborener Sohn.
 - [[(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa)|Tagebucheintrag 02.08.25]]
 - [[(DIARY)(mission-ki)(e963312a-02d0-48b6-be2f-3c966540a1a6)|Mission KI]]
 - [[(DIARY)(tagebucheintrag-18825)(bab1e596-d233-498f-a27a-300d04cca910)|Tagebucheintrag 18.8.25]]
+- [[(DIARY)(fr-20825-hausbesichtigung-st-augustin)(73e14b7c-7ce5-4820-a937-68544a9d8743)|Fr. 20.8.25 - Hausbesichtigung St. Augustin]]

@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:34:10.621Z'
-updated_at: '2025-11-25T08:52:07.709Z'
+updated_at: '2025-11-27T20:08:15.674Z'
 last_reviewed: '2025-11-17T11:34:10.621Z'
 links:
   - f79631b0-3d79-46c9-93b7-19b3e68ec76f
@@ -22,6 +22,7 @@ links:
   - e963312a-02d0-48b6-be2f-3c966540a1a6
   - 433814b2-5963-49ec-a305-d2a4dbbeec61
   - 26948de4-5d6f-4f13-a122-a0aedfde38ad
+  - 73e14b7c-7ce5-4820-a937-68544a9d8743
 sources: []
 ---
 
@@ -39,3 +40,4 @@ Mein erstgeborener Sohn.
 - [[(DIARY)(mission-ki)(e963312a-02d0-48b6-be2f-3c966540a1a6)|Mission KI]]
 - [[(DIARY)(tagebucheintrag-19825)(433814b2-5963-49ec-a305-d2a4dbbeec61)|Tagebucheintrag 19.8.25]]
 - [[(DIARY)(tagebucheintrag-200825)(26948de4-5d6f-4f13-a122-a0aedfde38ad)|Tagebucheintrag 20.08.25]]
+- [[(DIARY)(fr-20825-hausbesichtigung-st-augustin)(73e14b7c-7ce5-4820-a937-68544a9d8743)|Fr. 20.8.25 - Hausbesichtigung St. Augustin]]
