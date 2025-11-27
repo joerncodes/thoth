@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:14:40.785Z'
-updated_at: '2025-11-24T09:01:19.358Z'
+updated_at: '2025-11-25T10:31:34.640Z'
 last_reviewed: '2025-11-17T11:14:40.785Z'
 links:
   - 0a4d6b85-f1d4-496b-8a02-d8577f3c6d1a
@@ -14,6 +14,7 @@ links:
   - 4130c073-8c28-4263-a406-6bab5c5385a4
   - bda6d098-942a-49be-818c-0d5c52665f58
   - bab1e596-d233-498f-a27a-300d04cca910
+  - dc1b2502-53a8-44c8-8146-8d87852b466d
 sources: []
 abstract: >-
   Person, die im Tagebucheintrag vom 14.8.25 erwähnt wurde. Arbeitete den Autor
@@ -34,3 +35,4 @@ abstract: >-
 - [[(DIARY)(tagebucheintrag-2025-08-08)(4130c073-8c28-4263-a406-6bab5c5385a4)|Tagebucheintrag 2025-08-08]]
 - [[(DIARY)(tagebucheintrag-7825)(bda6d098-942a-49be-818c-0d5c52665f58)|Tagebucheintrag 7.8.25]]
 - [[(DIARY)(tagebucheintrag-18825)(bab1e596-d233-498f-a27a-300d04cca910)|Tagebucheintrag 18.8.25]]
+- [[(DIARY)(tagebucheintrag-2025-08-21)(dc1b2502-53a8-44c8-8146-8d87852b466d)|Tagebucheintrag 2025-08-21]]

@@ -21,8 +21,23 @@
               "icon": "lucide-table",
               "title": "Diary"
             }
+          },
+          {
+            "id": "0a6d52075401b5f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/md/(DIARY)(tagebucheintrag-2025-08-21)(dc1b2502-53a8-44c8-8146-8d87852b466d).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(DIARY)(tagebucheintrag-2025-08-21)(dc1b2502-53a8-44c8-8146-8d87852b466d)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Diary.base",
+                "file": "docs/md/(DIARY)(tagebucheintrag-2025-08-21)(dc1b2502-53a8-44c8-8146-8d87852b466d).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Diary"
+              "title": "Backlinks for (DIARY)(tagebucheintrag-2025-08-21)(dc1b2502-53a8-44c8-8146-8d87852b466d)"
             }
           },
           {
@@ -182,16 +197,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "d6eda23923ea7995",
+  "active": "0a6d52075401b5f2",
   "lastOpenFiles": [
-    "docs/md/(DIARY)(tagebucheintrag-200825)(26948de4-5d6f-4f13-a122-a0aedfde38ad).md",
+    "docs/index/flexsearch-memorystore.sqlite-journal",
     "Atlas/Diary.base",
+    "docs/md/(DIARY)(tagebucheintrag-200825)(26948de4-5d6f-4f13-a122-a0aedfde38ad).md",
     "docs/md/(DIARY)(tagebucheintrag-30725)(86b0acc0-5213-4bcb-a7e3-f63ca8c7f28f).md",
     "Atlas/Places.base",
     "docs/md/(DIARY)(tagebucheintrag-19825)(433814b2-5963-49ec-a305-d2a4dbbeec61).md",
     "docs/md/(PLACE)(bonn-international-school)(d269eba1-4c89-4147-88ee-d98556adf99b).md",
     "docs/md/(PLACE)(hans-im-glck)(dda261a0-6aac-444f-a6b1-3792f079ef90).md",
-    "docs/index/flexsearch-memorystore.sqlite-journal",
     "docs/md/(PERSON)(jan-eickmann)(094135ed-b670-46ec-82eb-d48ee23167bb).md",
     "docs/md/(PERSON)(jan)(094135ed-b670-46ec-82eb-d48ee23167bb).md",
     "Images/2025-08-19 Back to School.jpeg",
@@ -224,7 +239,6 @@
     "docs/md/(PLACE)(haus-im-glck)(dda261a0-6aac-444f-a6b1-3792f079ef90).md",
     "docs/md/(PERSON)(sarah-wller)(90cc8942-f75c-4ba3-88a6-145ef3de439e).md",
     "docs/md/(PERSON)(sarah-frster)(90cc8942-f75c-4ba3-88a6-145ef3de439e).md",
-    "docs/md/(PERSON)(matthias-laps)(ea6b5148-af25-47b5-8b92-418b1f384e47).md",
     "Atlas"
   ]
 }
