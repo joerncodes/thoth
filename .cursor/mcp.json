@@ -4,7 +4,7 @@
       "command": "/opt/homebrew/bin/uv",
       "args": [
         "--directory",
-        "/Users/joern/workspace/mcp-servers/mistral-ocr-mcp",
+        "/Users/joern/work/mcp-servers/mistral-ocr-mcp",
         "run",
         "main.py"
       ]

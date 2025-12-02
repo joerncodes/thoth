@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:34:10.621Z'
-updated_at: '2025-11-27T20:08:15.674Z'
+updated_at: '2025-12-01T09:51:49.131Z'
 last_reviewed: '2025-11-17T11:34:10.621Z'
 links:
   - f79631b0-3d79-46c9-93b7-19b3e68ec76f
@@ -23,6 +23,7 @@ links:
   - 433814b2-5963-49ec-a305-d2a4dbbeec61
   - 26948de4-5d6f-4f13-a122-a0aedfde38ad
   - 73e14b7c-7ce5-4820-a937-68544a9d8743
+  - 44f54b8c-a894-4d44-bf67-771e7a00cc0b
 sources: []
 ---
 
@@ -41,3 +42,4 @@ Mein erstgeborener Sohn.
 - [[(DIARY)(tagebucheintrag-19825)(433814b2-5963-49ec-a305-d2a4dbbeec61)|Tagebucheintrag 19.8.25]]
 - [[(DIARY)(tagebucheintrag-200825)(26948de4-5d6f-4f13-a122-a0aedfde38ad)|Tagebucheintrag 20.08.25]]
 - [[(DIARY)(fr-20825-hausbesichtigung-st-augustin)(73e14b7c-7ce5-4820-a937-68544a9d8743)|Fr. 20.8.25 - Hausbesichtigung St. Augustin]]
+- [[(DIARY)(sleepover-bei-familie-weger)(44f54b8c-a894-4d44-bf67-771e7a00cc0b)|Sleepover bei Familie Weger]]

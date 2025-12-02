@@ -5,16 +5,20 @@ tags:
   - persons
 category: PERSON
 created_at: '2025-11-17T15:32:33.429Z'
-updated_at: '2025-11-25T08:53:14.251Z'
+updated_at: '2025-12-01T09:35:03.761Z'
 last_reviewed: '2025-11-17T15:32:33.429Z'
 links:
   - 26948de4-5d6f-4f13-a122-a0aedfde38ad
+  - 44f54b8c-a894-4d44-bf67-771e7a00cc0b
 sources: []
 ---
 
 # Lukas Weger
 
 Guter Freund.
+
+**Zugehörigkeit:**
+Familie Weger, Windhagen
 
 ## Erwähnungen
 
@@ -24,3 +28,4 @@ Guter Freund.
 ## Related
 
 - [[(DIARY)(tagebucheintrag-200825)(26948de4-5d6f-4f13-a122-a0aedfde38ad)|Tagebucheintrag 20.08.25]]
+- [[(DIARY)(sleepover-bei-familie-weger)(44f54b8c-a894-4d44-bf67-771e7a00cc0b)|Sleepover bei Familie Weger]]
