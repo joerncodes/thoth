@@ -10,48 +10,17 @@
           {
             "id": "d6eda23923ea7995",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "bases",
               "state": {
                 "file": "Atlas/Diary.base",
                 "viewName": "Table"
               },
-              "pinned": true,
               "icon": "lucide-table",
               "title": "Diary"
             }
-          },
-          {
-            "id": "d00f00031cb8dddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/md/(DIARY)(sleepover-bei-familie-weger)(44f54b8c-a894-4d44-bf67-771e7a00cc0b).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(DIARY)(sleepover-bei-familie-weger)(44f54b8c-a894-4d44-bf67-771e7a00cc0b)"
-            }
-          },
-          {
-            "id": "8216539b6e44102f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/md/(DIARY)(sleepover-bei-familie-weger)(44f54b8c-a894-4d44-bf67-771e7a00cc0b).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(DIARY)(sleepover-bei-familie-weger)(44f54b8c-a894-4d44-bf67-771e7a00cc0b)"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/md/(DIARY)(sleepover-bei-familie-weger)(44f54b8c-a894-4d44-bf67-771e7a00cc0b).md",
+                "file": "Atlas/Diary.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for (DIARY)(sleepover-bei-familie-weger)(44f54b8c-a894-4d44-bf67-771e7a00cc0b)"
+              "title": "Backlinks for Diary"
             }
           },
           {
@@ -211,15 +180,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "8216539b6e44102f",
+  "active": "d6eda23923ea7995",
   "lastOpenFiles": [
+    "Atlas/Places.base",
+    "docs/md/(PLACE)(familie-weger)(9c0289b0-8310-4e33-a950-6b9cb162404d).md",
     "docs/index/flexsearch-memorystore.sqlite-journal",
+    "docs/md/(DIARY)(tagebucheintrag-24825)(5cf95c87-eee5-4003-aae9-25327c4836f5).md",
     "Atlas/Diary.base",
     "docs/md/(DIARY)(sleepover-bei-familie-weger)(44f54b8c-a894-4d44-bf67-771e7a00cc0b).md",
     "docs/md/(DIARY)(tagebucheintrag-2025-08-21)(dc1b2502-53a8-44c8-8146-8d87852b466d).md",
     "docs/md/(DIARY)(tagebucheintrag-200825)(26948de4-5d6f-4f13-a122-a0aedfde38ad).md",
     "docs/md/(DIARY)(tagebucheintrag-30725)(86b0acc0-5213-4bcb-a7e3-f63ca8c7f28f).md",
-    "Atlas/Places.base",
     "docs/md/(DIARY)(tagebucheintrag-19825)(433814b2-5963-49ec-a305-d2a4dbbeec61).md",
     "docs/md/(PLACE)(bonn-international-school)(d269eba1-4c89-4147-88ee-d98556adf99b).md",
     "docs/md/(PLACE)(hans-im-glck)(dda261a0-6aac-444f-a6b1-3792f079ef90).md",
@@ -251,8 +222,6 @@
     "Analyse_August_2025.md",
     "docs/md/(DIARY)(ein-angebot)(a73016e5-d05c-4476-afcb-ed527aaef689).md",
     "docs/md/(PLACE)(spinozastrae-15-kaiserslautern-familie-nickola)(23966a02-90a3-4ce9-b03b-320cd50e1066).md",
-    "docs/md/(PLACE)(garten)(58e7611c-360b-4fa7-81e0-cac7f2515aa4).md",
-    "docs/md/(PLACE)(haus-im-glck)(dda261a0-6aac-444f-a6b1-3792f079ef90).md",
     "Atlas"
   ]
 }

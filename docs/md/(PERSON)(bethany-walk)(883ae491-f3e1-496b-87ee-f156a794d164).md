@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:14:36.712Z'
-updated_at: '2025-11-27T20:07:59.570Z'
+updated_at: '2025-12-02T10:47:17.042Z'
 last_reviewed: '2025-11-17T11:14:36.712Z'
 links:
   - 0a4d6b85-f1d4-496b-8a02-d8577f3c6d1a
@@ -24,6 +24,8 @@ links:
   - bab1e596-d233-498f-a27a-300d04cca910
   - dc1b2502-53a8-44c8-8146-8d87852b466d
   - 73e14b7c-7ce5-4820-a937-68544a9d8743
+  - f88e3e2e-dc6e-4b4d-86bd-43bc24b6960b
+  - 5cf95c87-eee5-4003-aae9-25327c4836f5
 sources: []
 abstract: >-
   Person, die im Tagebucheintrag vom 14.8.25 erwähnt wurde. War gestresst von
@@ -45,3 +47,5 @@ Meine Frau.
 - [[(DIARY)(tagebucheintrag-18825)(bab1e596-d233-498f-a27a-300d04cca910)|Tagebucheintrag 18.8.25]]
 - [[(DIARY)(tagebucheintrag-2025-08-21)(dc1b2502-53a8-44c8-8146-8d87852b466d)|Tagebucheintrag 2025-08-21]]
 - [[(DIARY)(fr-20825-hausbesichtigung-st-augustin)(73e14b7c-7ce5-4820-a937-68544a9d8743)|Fr. 20.8.25 - Hausbesichtigung St. Augustin]]
+
+- [[(DIARY)(tagebucheintrag-24825)(5cf95c87-eee5-4003-aae9-25327c4836f5)|Tagebucheintrag 24.8.25]]
