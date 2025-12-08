@@ -11,13 +11,14 @@
             "id": "d6eda23923ea7995",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Atlas/Diary.base",
-                "viewName": "Table"
+                "file": "docs/md/(DIARY)(tagebucheintrag-25825)(ee601b50-6353-4918-b1d1-cbea2fee2f2c).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Diary"
+              "icon": "lucide-file",
+              "title": "(DIARY)(tagebucheintrag-25825)(ee601b50-6353-4918-b1d1-cbea2fee2f2c)"
             }
           }
         ]
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Diary.base",
+                "file": "docs/md/(DIARY)(tagebucheintrag-25825)(ee601b50-6353-4918-b1d1-cbea2fee2f2c).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Diary"
+              "title": "Backlinks for (DIARY)(tagebucheintrag-25825)(ee601b50-6353-4918-b1d1-cbea2fee2f2c)"
             }
           },
           {
@@ -182,11 +183,12 @@
   },
   "active": "d6eda23923ea7995",
   "lastOpenFiles": [
+    "Atlas/Diary.base",
+    "docs/index/flexsearch-memorystore.sqlite-journal",
+    "docs/md/(DIARY)(tagebucheintrag-25825)(ee601b50-6353-4918-b1d1-cbea2fee2f2c).md",
     "Atlas/Places.base",
     "docs/md/(PLACE)(familie-weger)(9c0289b0-8310-4e33-a950-6b9cb162404d).md",
-    "docs/index/flexsearch-memorystore.sqlite-journal",
     "docs/md/(DIARY)(tagebucheintrag-24825)(5cf95c87-eee5-4003-aae9-25327c4836f5).md",
-    "Atlas/Diary.base",
     "docs/md/(DIARY)(sleepover-bei-familie-weger)(44f54b8c-a894-4d44-bf67-771e7a00cc0b).md",
     "docs/md/(DIARY)(tagebucheintrag-2025-08-21)(dc1b2502-53a8-44c8-8146-8d87852b466d).md",
     "docs/md/(DIARY)(tagebucheintrag-200825)(26948de4-5d6f-4f13-a122-a0aedfde38ad).md",
@@ -221,7 +223,6 @@
     "docs/md/(DIARY)(sa-9825-schwimmbad-date)(96f16d6f-c2ec-4c9d-b5c6-a56e32a1d587).md",
     "Analyse_August_2025.md",
     "docs/md/(DIARY)(ein-angebot)(a73016e5-d05c-4476-afcb-ed527aaef689).md",
-    "docs/md/(PLACE)(spinozastrae-15-kaiserslautern-familie-nickola)(23966a02-90a3-4ce9-b03b-320cd50e1066).md",
     "Atlas"
   ]
 }
