@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/md/(DIARY)(tagebucheintrag-25825)(ee601b50-6353-4918-b1d1-cbea2fee2f2c).md",
+                "file": "docs/md/(DIARY)(tagebucheintrag-2025-08-26)(c0c68bbb-1396-483d-a6bc-9153ba3b2eb6).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(DIARY)(tagebucheintrag-25825)(ee601b50-6353-4918-b1d1-cbea2fee2f2c)"
+              "title": "(DIARY)(tagebucheintrag-2025-08-26)(c0c68bbb-1396-483d-a6bc-9153ba3b2eb6)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/md/(DIARY)(tagebucheintrag-25825)(ee601b50-6353-4918-b1d1-cbea2fee2f2c).md",
+                "file": "docs/md/(DIARY)(tagebucheintrag-2025-08-26)(c0c68bbb-1396-483d-a6bc-9153ba3b2eb6).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for (DIARY)(tagebucheintrag-25825)(ee601b50-6353-4918-b1d1-cbea2fee2f2c)"
+              "title": "Backlinks for (DIARY)(tagebucheintrag-2025-08-26)(c0c68bbb-1396-483d-a6bc-9153ba3b2eb6)"
             }
           },
           {
@@ -185,8 +185,12 @@
   "lastOpenFiles": [
     "Atlas/Diary.base",
     "docs/index/flexsearch-memorystore.sqlite-journal",
-    "docs/md/(DIARY)(tagebucheintrag-25825)(ee601b50-6353-4918-b1d1-cbea2fee2f2c).md",
+    "docs/md/(PERSON)(dr-wolff)(c78ace54-5d5c-4564-b930-5a1aa5588fff).md",
+    "docs/md/(DIARY)(tagebucheintrag-2025-08-26)(c0c68bbb-1396-483d-a6bc-9153ba3b2eb6).md",
+    "docs/md/(PLACE)(hans-im-glck)(dda261a0-6aac-444f-a6b1-3792f079ef90).md",
+    "docs/md/(PLACE)(3h-automobile)(e879a656-fac4-497f-9286-34a2e4f13763).md",
     "Atlas/Places.base",
+    "docs/md/(DIARY)(tagebucheintrag-25825)(ee601b50-6353-4918-b1d1-cbea2fee2f2c).md",
     "docs/md/(PLACE)(familie-weger)(9c0289b0-8310-4e33-a950-6b9cb162404d).md",
     "docs/md/(DIARY)(tagebucheintrag-24825)(5cf95c87-eee5-4003-aae9-25327c4836f5).md",
     "docs/md/(DIARY)(sleepover-bei-familie-weger)(44f54b8c-a894-4d44-bf67-771e7a00cc0b).md",
@@ -195,7 +199,6 @@
     "docs/md/(DIARY)(tagebucheintrag-30725)(86b0acc0-5213-4bcb-a7e3-f63ca8c7f28f).md",
     "docs/md/(DIARY)(tagebucheintrag-19825)(433814b2-5963-49ec-a305-d2a4dbbeec61).md",
     "docs/md/(PLACE)(bonn-international-school)(d269eba1-4c89-4147-88ee-d98556adf99b).md",
-    "docs/md/(PLACE)(hans-im-glck)(dda261a0-6aac-444f-a6b1-3792f079ef90).md",
     "docs/md/(PERSON)(jan-eickmann)(094135ed-b670-46ec-82eb-d48ee23167bb).md",
     "docs/md/(PERSON)(jan)(094135ed-b670-46ec-82eb-d48ee23167bb).md",
     "Images/2025-08-19 Back to School.jpeg",
@@ -220,9 +223,6 @@
     "Images/2025-08-17 1.jpeg.sb-c5631537-bF7eC4",
     "docs/md/(DIARY)(tagebucheintrag-060825)(46ffe812-18d3-4f2c-baee-44d483079eee).md",
     "docs/md/(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa).md",
-    "docs/md/(DIARY)(sa-9825-schwimmbad-date)(96f16d6f-c2ec-4c9d-b5c6-a56e32a1d587).md",
-    "Analyse_August_2025.md",
-    "docs/md/(DIARY)(ein-angebot)(a73016e5-d05c-4476-afcb-ed527aaef689).md",
     "Atlas"
   ]
 }
