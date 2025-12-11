@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:34:10.621Z'
-updated_at: '2025-12-08T13:03:42.213Z'
+updated_at: '2025-12-09T14:32:13.927Z'
 last_reviewed: '2025-11-17T11:34:10.621Z'
 links:
   - f79631b0-3d79-46c9-93b7-19b3e68ec76f
@@ -27,6 +27,7 @@ links:
   - f88e3e2e-dc6e-4b4d-86bd-43bc24b6960b
   - 5cf95c87-eee5-4003-aae9-25327c4836f5
   - c0c68bbb-1396-483d-a6bc-9153ba3b2eb6
+  - a1bbf58b-4746-4eb5-813e-c4544c88f344
 sources: []
 ---
 
@@ -49,3 +50,4 @@ Mein erstgeborener Sohn.
 
 - [[(DIARY)(tagebucheintrag-24825)(5cf95c87-eee5-4003-aae9-25327c4836f5)|Tagebucheintrag 24.8.25]]
 - [[(DIARY)(tagebucheintrag-2025-08-26)(c0c68bbb-1396-483d-a6bc-9153ba3b2eb6)|Tagebucheintrag 2025-08-26]]
+- [[(DIARY)(king-of-miro)(a1bbf58b-4746-4eb5-813e-c4544c88f344)|King of Miro]]

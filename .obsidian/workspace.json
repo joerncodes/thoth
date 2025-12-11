@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b6da8c3a174476b7",
+        "id": "31c9de06de8ebcc1",
         "type": "tabs",
         "children": [
           {
-            "id": "d6eda23923ea7995",
+            "id": "6d12715b3f671448",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/md/(DIARY)(tagebucheintrag-2025-08-26)(c0c68bbb-1396-483d-a6bc-9153ba3b2eb6).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(DIARY)(tagebucheintrag-2025-08-26)(c0c68bbb-1396-483d-a6bc-9153ba3b2eb6)"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/md/(DIARY)(tagebucheintrag-2025-08-26)(c0c68bbb-1396-483d-a6bc-9153ba3b2eb6).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for (DIARY)(tagebucheintrag-2025-08-26)(c0c68bbb-1396-483d-a6bc-9153ba3b2eb6)"
+              "title": "Backlinks"
             }
           },
           {
@@ -181,12 +176,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "d6eda23923ea7995",
+  "active": "6d12715b3f671448",
   "lastOpenFiles": [
-    "Atlas/Diary.base",
+    "docs/md/(DIARY)(king-of-miro)(a1bbf58b-4746-4eb5-813e-c4544c88f344).md",
     "docs/index/flexsearch-memorystore.sqlite-journal",
-    "docs/md/(PERSON)(dr-wolff)(c78ace54-5d5c-4564-b930-5a1aa5588fff).md",
+    "Atlas/Diary.base",
     "docs/md/(DIARY)(tagebucheintrag-2025-08-26)(c0c68bbb-1396-483d-a6bc-9153ba3b2eb6).md",
+    "Images/2025-08-27 2.jpeg",
+    "Images/2025-08-27 1.jpeg",
+    "Images/b4419d8bb50a51d279e6489bb309aafc.jpeg",
+    "Images/e99fbae3f1199f97c3bae3a6d2d6a031.jpeg",
+    "docs/md/(PERSON)(dr-wolff)(c78ace54-5d5c-4564-b930-5a1aa5588fff).md",
     "docs/md/(PLACE)(hans-im-glck)(dda261a0-6aac-444f-a6b1-3792f079ef90).md",
     "docs/md/(PLACE)(3h-automobile)(e879a656-fac4-497f-9286-34a2e4f13763).md",
     "Atlas/Places.base",
@@ -208,21 +208,16 @@
     "Images/8f69b4c595bfd5cd4bddca83b91e9def.jpeg",
     "Images/f618a996e23f04cecfc2f33bdd2bbcc2.jpeg",
     "docs/md/(DIARY)(tagebucheintrag-18825)(bab1e596-d233-498f-a27a-300d04cca910).md",
-    "Images/2025-08-18 2.jpeg",
-    "Images/2025-08-18 1.jpeg",
     "docs/md/(PERSON)(romia-bansky)(a1a43211-9845-4cad-bd22-c9eba4790e64).md",
     "docs/md/(PERSON)(taisja-bansky)(56bfda4b-20d5-43a2-b39f-5da62e8f289b).md",
     "docs/md/(PERSON)(romia)(a1a43211-9845-4cad-bd22-c9eba4790e64).md",
     "docs/md/(PERSON)(taisja)(56bfda4b-20d5-43a2-b39f-5da62e8f289b).md",
     "Images/588c6a5cc7168ebfe6d3c9c776e7b2db.jpeg.sb-c5631537-HUfR54",
-    "Images/6b5ad03db47c8141a624c0ff9e148b98.jpeg",
-    "Images/588c6a5cc7168ebfe6d3c9c776e7b2db.jpeg",
     "docs/md/(DIARY)(mission-ki)(e963312a-02d0-48b6-be2f-3c966540a1a6).md",
     "2025-11-20.md",
     "docs/md/(PLACE)(deutsches-museum-bonn)(511f1f1d-4ba8-4899-8ca1-609c3d67c232).md",
     "Images/2025-08-17 1.jpeg.sb-c5631537-bF7eC4",
     "docs/md/(DIARY)(tagebucheintrag-060825)(46ffe812-18d3-4f2c-baee-44d483079eee).md",
-    "docs/md/(DIARY)(tagebucheintrag-020825)(f89a3e1e-240f-4354-818e-83ff8cd3baaa).md",
     "Atlas"
   ]
 }
