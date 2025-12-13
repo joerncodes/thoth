@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "31c9de06de8ebcc1",
+        "id": "0cbb79a467f648b5",
         "type": "tabs",
         "children": [
           {
-            "id": "6d12715b3f671448",
+            "id": "723b98b00a8e407d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,11 +176,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "6d12715b3f671448",
+  "active": "723b98b00a8e407d",
   "lastOpenFiles": [
+    "docs/md/(DIARY)(tagebucheintrag-28825)(7c031abc-8907-4d7a-acd5-5839f2c35520).md",
+    "Atlas/Diary.base",
     "docs/md/(DIARY)(king-of-miro)(a1bbf58b-4746-4eb5-813e-c4544c88f344).md",
     "docs/index/flexsearch-memorystore.sqlite-journal",
-    "Atlas/Diary.base",
     "docs/md/(DIARY)(tagebucheintrag-2025-08-26)(c0c68bbb-1396-483d-a6bc-9153ba3b2eb6).md",
     "Images/2025-08-27 2.jpeg",
     "Images/2025-08-27 1.jpeg",
