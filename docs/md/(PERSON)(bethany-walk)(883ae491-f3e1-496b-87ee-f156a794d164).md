@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:14:36.712Z'
-updated_at: '2025-12-13T12:15:30.012Z'
+updated_at: '2025-12-13T12:22:40.088Z'
 last_reviewed: '2025-11-17T11:14:36.712Z'
 links:
   - 0a4d6b85-f1d4-496b-8a02-d8577f3c6d1a
@@ -30,6 +30,7 @@ links:
   - a1bbf58b-4746-4eb5-813e-c4544c88f344
   - 7c031abc-8907-4d7a-acd5-5839f2c35520
   - e20e60ec-849f-4350-b781-580648bdc8f9
+  - fc0fcbbe-885e-423d-909a-a76fb20c45fe
 sources: []
 abstract: >-
   Person, die im Tagebucheintrag vom 14.8.25 erwähnt wurde. War gestresst von
@@ -57,3 +58,4 @@ Meine Frau.
 - [[(DIARY)(king-of-miro)(a1bbf58b-4746-4eb5-813e-c4544c88f344)|King of Miro]]
 - [[(DIARY)(tagebucheintrag-28825)(7c031abc-8907-4d7a-acd5-5839f2c35520)|Tagebucheintrag 28.8.25]]
 - [[(DIARY)(tagebucheintrag-29825)(e20e60ec-849f-4350-b781-580648bdc8f9)|Tagebucheintrag 29.8.25]]
+- [[(DIARY)(garten-grill-fest)(fc0fcbbe-885e-423d-909a-a76fb20c45fe)|Garten - Grill Fest]]

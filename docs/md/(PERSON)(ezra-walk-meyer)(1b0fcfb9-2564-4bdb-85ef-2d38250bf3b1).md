@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:34:10.621Z'
-updated_at: '2025-12-13T12:15:30.165Z'
+updated_at: '2025-12-13T12:22:40.245Z'
 last_reviewed: '2025-11-17T11:34:10.621Z'
 links:
   - f79631b0-3d79-46c9-93b7-19b3e68ec76f
@@ -29,6 +29,7 @@ links:
   - c0c68bbb-1396-483d-a6bc-9153ba3b2eb6
   - a1bbf58b-4746-4eb5-813e-c4544c88f344
   - e20e60ec-849f-4350-b781-580648bdc8f9
+  - fc0fcbbe-885e-423d-909a-a76fb20c45fe
 sources: []
 ---
 
@@ -53,3 +54,4 @@ Mein erstgeborener Sohn.
 - [[(DIARY)(tagebucheintrag-2025-08-26)(c0c68bbb-1396-483d-a6bc-9153ba3b2eb6)|Tagebucheintrag 2025-08-26]]
 - [[(DIARY)(king-of-miro)(a1bbf58b-4746-4eb5-813e-c4544c88f344)|King of Miro]]
 - [[(DIARY)(tagebucheintrag-29825)(e20e60ec-849f-4350-b781-580648bdc8f9)|Tagebucheintrag 29.8.25]]
+- [[(DIARY)(garten-grill-fest)(fc0fcbbe-885e-423d-909a-a76fb20c45fe)|Garten - Grill Fest]]
