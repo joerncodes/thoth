@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: List
+    filters:
+      and:
+        - category == "REFLECTION"
+    order:
+      - file.name
+      - title
+      - abstract
+    columnSize:
+      file.name: 191

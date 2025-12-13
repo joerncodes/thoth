@@ -10,14 +10,35 @@
           {
             "id": "723b98b00a8e407d",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "Atlas/Reflections.base",
+                "viewName": "List"
+              },
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "Reflections"
+            }
+          },
+          {
+            "id": "125cab988f966a53",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Atlas/Diary.base",
+                "viewName": "Table"
+              },
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "Diary"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atlas/Diary.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Diary"
             }
           },
           {
@@ -176,12 +198,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "723b98b00a8e407d",
+  "active": "125cab988f966a53",
   "lastOpenFiles": [
+    "Atlas/Reflections.base",
+    "docs/md/(REFLECTION)(monatsreflexion-august-2025)(66872d48-946a-417b-b3b4-395cf1ee6a54).md",
+    "docs/index/flexsearch-memorystore.sqlite-journal",
     "docs/md/(DIARY)(tagebucheintrag-28825)(7c031abc-8907-4d7a-acd5-5839f2c35520).md",
     "Atlas/Diary.base",
     "docs/md/(DIARY)(king-of-miro)(a1bbf58b-4746-4eb5-813e-c4544c88f344).md",
-    "docs/index/flexsearch-memorystore.sqlite-journal",
     "docs/md/(DIARY)(tagebucheintrag-2025-08-26)(c0c68bbb-1396-483d-a6bc-9153ba3b2eb6).md",
     "Images/2025-08-27 2.jpeg",
     "Images/2025-08-27 1.jpeg",
@@ -216,9 +240,7 @@
     "Images/588c6a5cc7168ebfe6d3c9c776e7b2db.jpeg.sb-c5631537-HUfR54",
     "docs/md/(DIARY)(mission-ki)(e963312a-02d0-48b6-be2f-3c966540a1a6).md",
     "2025-11-20.md",
-    "docs/md/(PLACE)(deutsches-museum-bonn)(511f1f1d-4ba8-4899-8ca1-609c3d67c232).md",
     "Images/2025-08-17 1.jpeg.sb-c5631537-bF7eC4",
-    "docs/md/(DIARY)(tagebucheintrag-060825)(46ffe812-18d3-4f2c-baee-44d483079eee).md",
     "Atlas"
   ]
 }

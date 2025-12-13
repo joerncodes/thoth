@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:14:37.504Z'
-updated_at: '2025-12-13T12:22:40.399Z'
+updated_at: '2025-12-13T12:36:09.463Z'
 last_reviewed: '2025-11-17T11:14:37.504Z'
 links:
   - 0a4d6b85-f1d4-496b-8a02-d8577f3c6d1a
@@ -25,6 +25,7 @@ links:
   - a1bbf58b-4746-4eb5-813e-c4544c88f344
   - 7c031abc-8907-4d7a-acd5-5839f2c35520
   - fc0fcbbe-885e-423d-909a-a76fb20c45fe
+  - 1f9ebb03-94bc-41cd-9ada-bb6dbcad9a17
 sources: []
 abstract: >-
   Person, die im Tagebucheintrag vom 14.8.25 erwähnt wurde. Weckte früh, aß
@@ -48,3 +49,4 @@ Mein zweitgeborener Sohn.
 - [[(DIARY)(king-of-miro)(a1bbf58b-4746-4eb5-813e-c4544c88f344)|King of Miro]]
 - [[(DIARY)(tagebucheintrag-28825)(7c031abc-8907-4d7a-acd5-5839f2c35520)|Tagebucheintrag 28.8.25]]
 - [[(DIARY)(garten-grill-fest)(fc0fcbbe-885e-423d-909a-a76fb20c45fe)|Garten - Grill Fest]]
+- [[(DIARY)(tagebucheintrag-31825)(1f9ebb03-94bc-41cd-9ada-bb6dbcad9a17)|Tagebucheintrag 31.8.25]]
