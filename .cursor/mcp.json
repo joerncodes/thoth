@@ -1,0 +1,27 @@
+{
+	"mcpServers": {
+		"mistral-ocr": {
+      "command": "/opt/homebrew/bin/uv",
+      "args": [
+        "--directory",
+        "/Users/joern/work/mcp-servers/mistral-ocr-mcp",
+        "run",
+        "main.py"
+      ]
+    },
+		"llm-mem": {
+			"command": "node",
+			"args": [
+				"./node_modules/llm-mem/packages/mcp/dist/index.js",
+				"--memoryStorePath=./docs/md",
+				"--indexPath=./docs/index"
+			],
+			"env": {
+				"NAME_PREFIX": "joern",
+				"ALLOWED_CATEGORIES": "DOC,CTX,ADR,COMPANY,PERSON,ENDEAVOUR,RAW,DIARY,PLACE,REFLECTION",
+				"FLEXSEARCH_LANGUAGE": "de",
+				"MEMORY_CONFIG_PATH": "./memory-config.yaml"
+			}
+		}
+	}
+}

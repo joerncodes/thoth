@@ -1,0 +1,24 @@
+formulas:
+  Monat: date.format("MM MMMM")
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - category == "DIARY"
+    groupBy:
+      property: formula.Monat
+      direction: ASC
+    order:
+      - file.name
+      - date
+      - title
+      - mood
+      - abstract
+    sort:
+      - property: date
+        direction: ASC
+    columnSize:
+      file.name: 133
+      note.title: 209
+      note.mood: 110

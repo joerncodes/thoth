@@ -1,0 +1,5 @@
+---
+description: When the word git appears in chat.
+alwaysApply: false
+---
+Führe *niemals* Git-Operationen wie `commit`, `push` oder `merge` durch, ohne mich vorher zu fragen.

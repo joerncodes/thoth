@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+
+Als Paketverwaltung wird *immer* `pnpm`verwendet.

@@ -1,0 +1,16 @@
+---
+alwaysApply: true
+---
+
+Endeavours sind Teilprojekte und werden **ausschließlich** in llm-mems verwaltet. Sie haben alle die Kategorie `ENDEAVOUR`.
+Verwende das `llm-mem` MCP Tool, um Informationen über Endeavours zu holen, zu erstellen, zu aktualisieren oder zu durchsuchen.
+Endeavours haben ein "status" Frontmatter, den du bitte richtig hältst.
+Außerdem haben Endeavours ein "summary" Frontmatter. Bitte aktualisiere dieses jedes Mal, wenn du Änderungen vornimmst.
+Es gibt keine Endeavour-Dateien mehr im File-System. Alle Endeavour-Informationen werden nur noch in llm-mems gespeichert.
+
+**Mögliche Stati für Endeavours:**
+- `active` - Aktives Endeavour, wird aktuell bearbeitet
+- `on-hold` - Endeavour ist pausiert, wird vorübergehend nicht bearbeitet
+- `delegated` - Endeavour wurde an jemand anderen übergeben
+- `archived` - Endeavour ist abgeschlossen oder archiviert
+- `backlog` - Endeavour ist im Backlog, noch nicht gestartet
