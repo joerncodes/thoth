@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:14:36.712Z'
-updated_at: '2025-12-15T12:14:33.835Z'
+updated_at: '2025-12-20T19:24:54.413Z'
 last_reviewed: '2025-11-17T11:14:36.712Z'
 links:
   - 0a4d6b85-f1d4-496b-8a02-d8577f3c6d1a
@@ -36,6 +36,7 @@ links:
   - f5d9d973-0497-40c5-b959-d07683bc185e
   - f4dfafce-950e-4ccd-9336-b10471366557
   - c0e57b27-e14c-4385-8735-a4d1b08ed0e0
+  - 23aed504-6120-474b-b793-49d78221c6b9
 sources: []
 abstract: >-
   Person, die im Tagebucheintrag vom 14.8.25 erwähnt wurde. War gestresst von
@@ -69,3 +70,4 @@ Meine Frau.
 - [[(DIARY)(tagebucheintrag-28725)(f5d9d973-0497-40c5-b959-d07683bc185e)|Tagebucheintrag 28.7.25]]
 - [[(DIARY)(27725-schnitzkurs)(f4dfafce-950e-4ccd-9336-b10471366557)|27.7.25 - Schnitzkurs]]
 - [[(DIARY)(di-2925-never-zahnarzt)(c0e57b27-e14c-4385-8735-a4d1b08ed0e0)|Di. 2.9.25 - Never Zahnarzt]]
+- [[(DIARY)(tagebucheintrag-20042025)(23aed504-6120-474b-b793-49d78221c6b9)|Tagebucheintrag 20.04.2025]]

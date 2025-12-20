@@ -36,9 +36,23 @@
               "icon": "lucide-table",
               "title": "Diary"
             }
+          },
+          {
+            "id": "b9d8b2d4c3126a83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/md/(DIARY)(tagebucheintrag-04092025)(23aed504-6120-474b-b793-49d78221c6b9).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(DIARY)(tagebucheintrag-04092025)(23aed504-6120-474b-b793-49d78221c6b9)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Diary.base",
+                "file": "docs/md/(DIARY)(tagebucheintrag-04092025)(23aed504-6120-474b-b793-49d78221c6b9).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Diary"
+              "title": "Backlinks for (DIARY)(tagebucheintrag-04092025)(23aed504-6120-474b-b793-49d78221c6b9)"
             }
           },
           {
@@ -198,12 +212,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "125cab988f966a53",
+  "active": "b9d8b2d4c3126a83",
   "lastOpenFiles": [
+    "Atlas/Diary.base",
+    "docs/index/flexsearch-memorystore.sqlite-journal",
+    "docs/md/(DIARY)(tagebucheintrag-04092025)(23aed504-6120-474b-b793-49d78221c6b9).md",
+    "docs/md/(PERSON)(manuel-willert)(ad0c5dd0-9f6b-4ad2-8312-07d9b449cf22).md",
+    "docs/md/(PERSON)(alex)(a036e00e-60ba-4703-9bdc-e1c8fc60a1aa).md",
+    "docs/md/(PERSON)(manuel)(ad0c5dd0-9f6b-4ad2-8312-07d9b449cf22).md",
+    "docs/md/(DIARY)(tagebucheintrag-20042025)(23aed504-6120-474b-b793-49d78221c6b9).md",
+    "Images/2025-09-04 1.jpeg.sb-8fb509f2-vS6kh5",
+    "Images/2025-09-04 2.jpeg",
+    "Images/c10e38446d235f891b27b01f9892975e.jpeg",
+    "Images/2025-09-04 1.jpeg",
+    "Images/fb32e74e2f3bf76dc689bbfd5b9c7092.jpeg",
     "docs/md/(DIARY)(tagebucheintrag-030925)(b9161c13-c1f7-437f-9ee3-f49afb9beeaa).md",
     "docs/md/(PERSON)(matthias-steinforth)(a361aa2d-fec7-46cc-8e23-60d91846870e).md",
-    "docs/index/flexsearch-memorystore.sqlite-journal",
-    "Atlas/Diary.base",
     "docs/md/(DIARY)(di-2925-neuer-zahnarzt)(c0e57b27-e14c-4385-8735-a4d1b08ed0e0).md",
     "docs/md/(DIARY)(di-2925-never-zahnarzt)(c0e57b27-e14c-4385-8735-a4d1b08ed0e0).md",
     "Images/2025-09-02 Zahnarzt.jpeg",
@@ -214,10 +238,6 @@
     "Images/3f0d87fa5d48297949f0ddf37e62fc7b.jpeg",
     "docs/md/(DIARY)(27725-schnitzkurs)(f4dfafce-950e-4ccd-9336-b10471366557).md",
     "docs/md/(PLACE)(bonnatours-inh-sonja-s)(d997f30a-460a-4e24-a11d-13b4ab7fcc0d).md",
-    "Images/2025-07-27 2.jpeg",
-    "Images/2025-07-.jpeg",
-    "Images/77451a1e43e68ecc45d895a612a82f7c.jpeg",
-    "Images/2025-07-27 1.jpeg",
     "docs/md/(DIARY)(tagebucheintrag-28725)(f5d9d973-0497-40c5-b959-d07683bc185e).md",
     "Images/2025-07-28 1.jpeg.sb-c9a684dc-RmgjZy",
     "docs/md/(PERSON)(laura-marie-hoffmann)(2d83faea-8d5a-4f87-9946-31fd92649d7f).md",
@@ -235,12 +255,6 @@
     "Atlas/Places.base",
     "docs/md/(DIARY)(tagebucheintrag-25825)(ee601b50-6353-4918-b1d1-cbea2fee2f2c).md",
     "docs/md/(PLACE)(familie-weger)(9c0289b0-8310-4e33-a950-6b9cb162404d).md",
-    "docs/md/(DIARY)(tagebucheintrag-24825)(5cf95c87-eee5-4003-aae9-25327c4836f5).md",
-    "docs/md/(DIARY)(sleepover-bei-familie-weger)(44f54b8c-a894-4d44-bf67-771e7a00cc0b).md",
-    "docs/md/(DIARY)(tagebucheintrag-2025-08-21)(dc1b2502-53a8-44c8-8146-8d87852b466d).md",
-    "docs/md/(DIARY)(tagebucheintrag-200825)(26948de4-5d6f-4f13-a122-a0aedfde38ad).md",
-    "docs/md/(DIARY)(tagebucheintrag-30725)(86b0acc0-5213-4bcb-a7e3-f63ca8c7f28f).md",
-    "docs/md/(DIARY)(tagebucheintrag-19825)(433814b2-5963-49ec-a305-d2a4dbbeec61).md",
     "Images/588c6a5cc7168ebfe6d3c9c776e7b2db.jpeg.sb-c5631537-HUfR54",
     "Images/2025-08-17 1.jpeg.sb-c5631537-bF7eC4",
     "Atlas"
