@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:34:10.621Z'
-updated_at: '2025-12-15T12:14:34.841Z'
+updated_at: '2025-12-22T11:30:05.093Z'
 last_reviewed: '2025-11-17T11:34:10.621Z'
 links:
   - f79631b0-3d79-46c9-93b7-19b3e68ec76f
@@ -33,6 +33,7 @@ links:
   - 2eb11151-8ad2-4a25-a4bb-a0b5c21ff2a9
   - f4dfafce-950e-4ccd-9336-b10471366557
   - c0e57b27-e14c-4385-8735-a4d1b08ed0e0
+  - d0d9a15f-63df-4c8d-a66c-48be38468406
 sources: []
 ---
 
@@ -61,3 +62,4 @@ Mein erstgeborener Sohn.
 - [[(DIARY)(tagebucheintrag-290725)(2eb11151-8ad2-4a25-a4bb-a0b5c21ff2a9)|Tagebucheintrag 29.07.25]]
 - [[(DIARY)(27725-schnitzkurs)(f4dfafce-950e-4ccd-9336-b10471366557)|27.7.25 - Schnitzkurs]]
 - [[(DIARY)(di-2925-never-zahnarzt)(c0e57b27-e14c-4385-8735-a4d1b08ed0e0)|Di. 2.9.25 - Never Zahnarzt]]
+- [[(DIARY)(back-to-school-party)(d0d9a15f-63df-4c8d-a66c-48be38468406)|Back-to-School Party]]

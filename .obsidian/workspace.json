@@ -21,38 +21,8 @@
               "icon": "lucide-table",
               "title": "Reflections"
             }
-          },
-          {
-            "id": "125cab988f966a53",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Atlas/Diary.base",
-                "viewName": "Table"
-              },
-              "pinned": true,
-              "icon": "lucide-table",
-              "title": "Diary"
-            }
-          },
-          {
-            "id": "b9d8b2d4c3126a83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/md/(DIARY)(tagebucheintrag-04092025)(23aed504-6120-474b-b793-49d78221c6b9).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(DIARY)(tagebucheintrag-04092025)(23aed504-6120-474b-b793-49d78221c6b9)"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/md/(DIARY)(tagebucheintrag-04092025)(23aed504-6120-474b-b793-49d78221c6b9).md",
+                "file": "Atlas/Reflections.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for (DIARY)(tagebucheintrag-04092025)(23aed504-6120-474b-b793-49d78221c6b9)"
+              "title": "Backlinks for Reflections"
             }
           },
           {
@@ -212,9 +182,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "b9d8b2d4c3126a83",
+  "active": "723b98b00a8e407d",
   "lastOpenFiles": [
     "Atlas/Diary.base",
+    "docs/md/(PERSON)(leon)(070440b2-e2e2-49eb-9931-ddd71bf4014a).md",
+    "docs/md/(DIARY)(back-to-school-party)(d0d9a15f-63df-4c8d-a66c-48be38468406).md",
+    "docs/md/(PERSON)(olli-arendt)(233bb208-8682-4055-ae2c-835b98db51b6).md",
+    "docs/md/(PERSON)(rye)(cac4705b-ec88-4e1a-9d0e-b8acb184ed3e).md",
     "docs/index/flexsearch-memorystore.sqlite-journal",
     "docs/md/(DIARY)(tagebucheintrag-04092025)(23aed504-6120-474b-b793-49d78221c6b9).md",
     "docs/md/(PERSON)(manuel-willert)(ad0c5dd0-9f6b-4ad2-8312-07d9b449cf22).md",
@@ -250,11 +224,7 @@
     "docs/md/(DIARY)(king-of-miro)(a1bbf58b-4746-4eb5-813e-c4544c88f344).md",
     "docs/md/(DIARY)(tagebucheintrag-2025-08-26)(c0c68bbb-1396-483d-a6bc-9153ba3b2eb6).md",
     "docs/md/(PERSON)(dr-wolff)(c78ace54-5d5c-4564-b930-5a1aa5588fff).md",
-    "docs/md/(PLACE)(hans-im-glck)(dda261a0-6aac-444f-a6b1-3792f079ef90).md",
-    "docs/md/(PLACE)(3h-automobile)(e879a656-fac4-497f-9286-34a2e4f13763).md",
     "Atlas/Places.base",
-    "docs/md/(DIARY)(tagebucheintrag-25825)(ee601b50-6353-4918-b1d1-cbea2fee2f2c).md",
-    "docs/md/(PLACE)(familie-weger)(9c0289b0-8310-4e33-a950-6b9cb162404d).md",
     "Images/588c6a5cc7168ebfe6d3c9c776e7b2db.jpeg.sb-c5631537-HUfR54",
     "Images/2025-08-17 1.jpeg.sb-c5631537-bF7eC4",
     "Atlas"
