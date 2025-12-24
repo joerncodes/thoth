@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:14:36.712Z'
-updated_at: '2025-12-23T20:51:24.977Z'
+updated_at: '2025-12-24T11:32:52.240Z'
 last_reviewed: '2025-11-17T11:14:36.712Z'
 links:
   - 0a4d6b85-f1d4-496b-8a02-d8577f3c6d1a
@@ -39,6 +39,7 @@ links:
   - 23aed504-6120-474b-b793-49d78221c6b9
   - d0d9a15f-63df-4c8d-a66c-48be38468406
   - 41fe8be4-75c8-4d20-a881-fb196ad4438f
+  - 88d5deee-ebcb-4d1d-8d32-52544a098b92
 sources: []
 abstract: >-
   Person, die im Tagebucheintrag vom 14.8.25 erwähnt wurde. War gestresst von
@@ -75,3 +76,4 @@ Meine Frau.
 - [[(DIARY)(tagebucheintrag-20042025)(23aed504-6120-474b-b793-49d78221c6b9)|Tagebucheintrag 20.04.2025]]
 - [[(DIARY)(back-to-school-party)(d0d9a15f-63df-4c8d-a66c-48be38468406)|Back-to-School Party]]
 - [[(DIARY)(fahrrad-in-der-rheinaue)(41fe8be4-75c8-4d20-a881-fb196ad4438f)|Fahrrad in der Rheinaue]]
+- [[(DIARY)(so-7925-arlos-geburtstag)(88d5deee-ebcb-4d1d-8d32-52544a098b92)|So. 7.9.25 - Arlo's Geburtstag]]

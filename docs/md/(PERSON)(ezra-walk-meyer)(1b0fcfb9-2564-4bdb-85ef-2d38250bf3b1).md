@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:34:10.621Z'
-updated_at: '2025-12-23T20:51:25.412Z'
+updated_at: '2025-12-24T11:33:24.958Z'
 last_reviewed: '2025-11-17T11:34:10.621Z'
 links:
   - f79631b0-3d79-46c9-93b7-19b3e68ec76f
@@ -35,6 +35,7 @@ links:
   - c0e57b27-e14c-4385-8735-a4d1b08ed0e0
   - d0d9a15f-63df-4c8d-a66c-48be38468406
   - 41fe8be4-75c8-4d20-a881-fb196ad4438f
+  - 88d5deee-ebcb-4d1d-8d32-52544a098b92
 sources: []
 ---
 
@@ -65,3 +66,4 @@ Mein erstgeborener Sohn.
 - [[(DIARY)(di-2925-never-zahnarzt)(c0e57b27-e14c-4385-8735-a4d1b08ed0e0)|Di. 2.9.25 - Never Zahnarzt]]
 - [[(DIARY)(back-to-school-party)(d0d9a15f-63df-4c8d-a66c-48be38468406)|Back-to-School Party]]
 - [[(DIARY)(fahrrad-in-der-rheinaue)(41fe8be4-75c8-4d20-a881-fb196ad4438f)|Fahrrad in der Rheinaue]]
+- [[(DIARY)(so-7925-arlos-geburtstag)(88d5deee-ebcb-4d1d-8d32-52544a098b92)|So. 7.9.25 - Arlo's Geburtstag]]

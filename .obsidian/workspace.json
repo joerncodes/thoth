@@ -21,8 +21,38 @@
               "icon": "lucide-table",
               "title": "Reflections"
             }
+          },
+          {
+            "id": "d505d0576dbd787e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Atlas/Diary.base",
+                "viewName": "Table"
+              },
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "Diary"
+            }
+          },
+          {
+            "id": "707a0f69ac4e717d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/md/(DIARY)(so-7925-arlos-geburtstag)(88d5deee-ebcb-4d1d-8d32-52544a098b92).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(DIARY)(so-7925-arlos-geburtstag)(88d5deee-ebcb-4d1d-8d32-52544a098b92)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Reflections.base",
+                "file": "docs/md/(DIARY)(so-7925-arlos-geburtstag)(88d5deee-ebcb-4d1d-8d32-52544a098b92).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Reflections"
+              "title": "Backlinks for (DIARY)(so-7925-arlos-geburtstag)(88d5deee-ebcb-4d1d-8d32-52544a098b92)"
             }
           },
           {
@@ -182,14 +212,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "723b98b00a8e407d",
+  "active": "707a0f69ac4e717d",
   "lastOpenFiles": [
     "docs/index/flexsearch-memorystore.sqlite-journal",
+    "docs/md/(PERSON)(arlo)(fd73af43-f05c-4058-9c0d-006b882ed0d0).md",
+    "Atlas/Diary.base",
+    "Atlas/Reflections.base",
+    "docs/md/(DIARY)(so-7925-arlos-geburtstag)(88d5deee-ebcb-4d1d-8d32-52544a098b92).md",
+    "Images/2025-09-07 2.jpeg",
+    "Images/64515ac625659ec6c506cc181fba948b.jpeg",
+    "docs/md/(PLACE)(familie-gerhard-ryan)(f2acb866-d61c-43fa-ae76-a2c370f67a39).md",
+    "Images/2025-09-07 1.jpeg",
+    "Images/28512353bfdc2c61f1ace1c0c3cfed05.jpeg",
     "docs/md/(DIARY)(fahrrad-in-der-rheinaue)(41fe8be4-75c8-4d20-a881-fb196ad4438f).md",
     "docs/md/(PLACE)(rheinaue)(78d1add2-4281-4624-a017-37462e3ca100).md",
     "Images/2025-09-06 2.jpeg",
     "Images/2025-09-06 1.jpeg",
-    "Atlas/Diary.base",
     "docs/md/(PERSON)(leon)(070440b2-e2e2-49eb-9931-ddd71bf4014a).md",
     "docs/md/(DIARY)(back-to-school-party)(d0d9a15f-63df-4c8d-a66c-48be38468406).md",
     "docs/md/(PERSON)(olli-arendt)(233bb208-8682-4055-ae2c-835b98db51b6).md",
@@ -208,10 +246,6 @@
     "docs/md/(PERSON)(matthias-steinforth)(a361aa2d-fec7-46cc-8e23-60d91846870e).md",
     "docs/md/(DIARY)(di-2925-neuer-zahnarzt)(c0e57b27-e14c-4385-8735-a4d1b08ed0e0).md",
     "docs/md/(DIARY)(di-2925-never-zahnarzt)(c0e57b27-e14c-4385-8735-a4d1b08ed0e0).md",
-    "Images/2025-09-02 Zahnarzt.jpeg",
-    "Images/7a8c165591b6b1d8200b75dea8bc14c5.jpeg",
-    "Images/2025-09-02 2.jpeg",
-    "Images/5783c73a1c763b6070adf82333645a15.jpeg",
     "docs/md/(DIARY)(27725-schnitzkurs)(f4dfafce-950e-4ccd-9336-b10471366557).md",
     "docs/md/(PLACE)(bonnatours-inh-sonja-s)(d997f30a-460a-4e24-a11d-13b4ab7fcc0d).md",
     "docs/md/(DIARY)(tagebucheintrag-28725)(f5d9d973-0497-40c5-b959-d07683bc185e).md",
@@ -220,10 +254,6 @@
     "docs/md/(DIARY)(tagebucheintrag-290725)(2eb11151-8ad2-4a25-a4bb-a0b5c21ff2a9).md",
     "docs/md/(PERSON)(ingo)(ffb8bae9-dbd7-4963-9384-ba0dce8fef2f).md",
     "docs/md/(DIARY)(tagebucheintrag-010925)(78141949-58f7-4679-8773-eeb914e070f1).md",
-    "Atlas/Reflections.base",
-    "docs/md/(REFLECTION)(monatsreflexion-august-2025)(66872d48-946a-417b-b3b4-395cf1ee6a54).md",
-    "docs/md/(DIARY)(tagebucheintrag-28825)(7c031abc-8907-4d7a-acd5-5839f2c35520).md",
-    "docs/md/(DIARY)(king-of-miro)(a1bbf58b-4746-4eb5-813e-c4544c88f344).md",
     "Atlas/Places.base",
     "Images/588c6a5cc7168ebfe6d3c9c776e7b2db.jpeg.sb-c5631537-HUfR54",
     "Images/2025-08-17 1.jpeg.sb-c5631537-bF7eC4",

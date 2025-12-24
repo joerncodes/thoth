@@ -5,7 +5,7 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:14:37.504Z'
-updated_at: '2025-12-22T11:30:05.330Z'
+updated_at: '2025-12-24T11:33:25.295Z'
 last_reviewed: '2025-11-17T11:14:37.504Z'
 links:
   - 0a4d6b85-f1d4-496b-8a02-d8577f3c6d1a
@@ -28,6 +28,7 @@ links:
   - 1f9ebb03-94bc-41cd-9ada-bb6dbcad9a17
   - 2eb11151-8ad2-4a25-a4bb-a0b5c21ff2a9
   - d0d9a15f-63df-4c8d-a66c-48be38468406
+  - 88d5deee-ebcb-4d1d-8d32-52544a098b92
 sources: []
 abstract: >-
   Person, die im Tagebucheintrag vom 14.8.25 erwähnt wurde. Weckte früh, aß
@@ -54,3 +55,4 @@ Mein zweitgeborener Sohn.
 - [[(DIARY)(tagebucheintrag-31825)(1f9ebb03-94bc-41cd-9ada-bb6dbcad9a17)|Tagebucheintrag 31.8.25]]
 - [[(DIARY)(tagebucheintrag-290725)(2eb11151-8ad2-4a25-a4bb-a0b5c21ff2a9)|Tagebucheintrag 29.07.25]]
 - [[(DIARY)(back-to-school-party)(d0d9a15f-63df-4c8d-a66c-48be38468406)|Back-to-School Party]]
+- [[(DIARY)(so-7925-arlos-geburtstag)(88d5deee-ebcb-4d1d-8d32-52544a098b92)|So. 7.9.25 - Arlo's Geburtstag]]
