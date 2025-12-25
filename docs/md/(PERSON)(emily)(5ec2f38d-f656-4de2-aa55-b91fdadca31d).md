@@ -5,11 +5,12 @@ tags:
   - person
 category: PERSON
 created_at: '2025-11-17T11:14:39.340Z'
-updated_at: '2025-11-25T08:52:08.975Z'
+updated_at: '2025-12-25T19:43:53.665Z'
 last_reviewed: '2025-11-17T11:14:39.340Z'
 links:
   - 0a4d6b85-f1d4-496b-8a02-d8577f3c6d1a
   - 26948de4-5d6f-4f13-a122-a0aedfde38ad
+  - ddf9d706-984e-4863-be6e-63179cad621a
 sources: []
 abstract: >-
   Physiotherapeutin, die im Tagebucheintrag vom 14.8.25 erwähnt wurde. Massierte
@@ -21,8 +22,4 @@ abstract: >-
 ## Erwähnungen
 
 - **14.8.25**: Physiotherapeutin. Massierte die Waden, was extrem schmerzhaft war, aber die Knieschmerzen sofort reduzierte. Es wurde sich darüber gefreut, sie wiederzusehen.
-
-## Related
-
-- [[(DIARY)(tagebucheintrag-14825)(0a4d6b85-f1d4-496b-8a02-d8577f3c6d1a)|Tagebucheintrag 14.8.25]]
-- [[(DIARY)(tagebucheintrag-200825)(26948de4-5d6f-4f13-a122-a0aedfde38ad)|Tagebucheintrag 20.08.25]]
+- **8.9.25**: War wieder bei der Physio. Bearbeitete hauptsächlich die Triggerpunkte an der Wade, welche viele Monate nach der OP immer noch Probleme bereiteten.
